@@ -1,0 +1,28 @@
+Template-type: ReDIF-Paper 1.0
+Author-Name: Eric Ghysels
+Author-X-Name-First: Eric
+Author-X-Name-Last: Ghysels
+Author-Name: J. Isaac Miller
+Author-X-Name-First: J. Isaac
+Author-X-Name-Last: Miller
+Author-Email: millerjisaac@missouri.edu
+Author-Homepage: https://economics.missouri.edu/people/miller
+Author-Workplace-Name: Department of Economics, University of Missouri-Columbia
+Author-Workplace-Homepage: https://economics.missouri.edu
+Author-Person: pmi148
+Title: On the Size Distortion from Linearly Interpolating Low-frequency Series for Cointegration Tests
+Abstract: We analyze the sizes of standard cointegration tests applied to data subject to linear interpolation, discovering evidence of substantial size distortions induced by the interpolation. We 
+propose modifications to these tests to effectively eliminate size distortion from such tests conducted on data interpolated from end-of-period sampled low-frequency series. Our results generally do 
+not support linear interpolation when alternatives such as aggregation or mixed-frequency-modified tests are possible.
+Classification-JEL: C12, C32
+Keywords: linear interpolation, cointegration, trace test, residual-based cointegration tests
+Note: 
+Length: 24 pgs.
+Creation-Date: 2014-01-15
+Revision-Date:
+Number: 1403
+Publication-Status: Published in Advances in Econometrics 2014
+File-URL: https://drive.google.com/file/d/1khdfZo-hIWTTPAClpdgwMhKt1d0nWXPs/view?usp=sharing
+File-Format: application/pdf
+File-Size:
+Handle: RePEc:umc:wpaper:1403

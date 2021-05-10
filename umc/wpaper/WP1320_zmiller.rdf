@@ -1,0 +1,38 @@
+Template-type: ReDIF-Paper 1.0
+Author-Name: Yoosoon Chang
+Author-X-Name-First: Yoosoon
+Author-X-Name-Last: Chang
+Author-Name: Yongok Choi
+Author-X-Name-First: Yongok
+Author-X-Name-Last: Choi
+Author-Name: Chang Sik Kim
+Author-X-Name-First: Chang Sik
+Author-X-Name-Last: Kim
+Author-Name: Joon Y. Park
+Author-X-Name-First: Joon
+Author-X-Name-Last: Park
+Author-Name: J. Isaac Miller
+Author-X-Name-First: J. Isaac
+Author-X-Name-Last: Miller
+Author-Email: millerjisaac@missouri.edu
+Author-Homepage: https://economics.missouri.edu/people/miller
+Author-Workplace-Name: Department of Economics, University of Missouri-Columbia
+Author-Workplace-Homepage: https://economics.missouri.edu
+Author-Person: pmi148
+Title: Disentangling Temporal Patterns in Elasticities: A Functional Coefficient Panel Analysis of Electricity Demand
+Abstract: We introduce a panel model with a nonparametric functional coefficient of multiple arguments. The coefficient is a function both of time, allowing temporal changes in an otherwise linear 
+model, and of the regressor itself, allowing nonlinearity. In contrast to a time series model, the effects of the two arguments can be identified using a panel model. We apply the model to the 
+relationship between real GDP and electricity consumption. Our results suggest that the corresponding elasticities have decreased over time in developed countries, but that this decrease cannot be 
+entirely explained by changes in GDP itself or by sectoral shifts. 
+Classification-JEL: C33, C51, C53, Q41
+Keywords: semiparametric panel regression, partially linear functional coefficient model, elasticity of electricity demand 
+Note: 
+Length: 40 pgs.
+Creation-Date: 2013-11-08
+Revision-Date:
+Number: 1320
+Publication-Status: 
+File-URL: https://drive.google.com/file/d/1ec_niZCEu5jdfZGwH-QmnbD9nRSJK-lL/view?usp=sharing
+File-Format: application/pdf
+File-Size:
+Handle: RePEc:umc:wpaper:1320

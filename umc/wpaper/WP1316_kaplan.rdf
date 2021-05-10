@@ -1,0 +1,34 @@
+﻿Template-type: ReDIF-Paper 1.0
+Author-Name: David M. Kaplan
+Author-X-Name-First: David
+Author-X-Name-Middle: M.
+Author-X-Name-Last: Kaplan
+Author-Email: KaplanDM@Missouri.edu
+Author-Homepage: https://economics.missouri.edu/people/kaplan
+Author-Workplace-Name: Department of Economics, University of Missouri-Columbia
+Author-Workplace-Homepage: https://economics.missouri.edu
+Author-Person: pka649
+Title: IDEAL Inference on Conditional Quantiles via Interpolated Duals of Exact Analytic L-statistics
+Abstract: The literature has two types of fractional order statistics: an `ideal' (unobserved) type based on a beta distribution, and an observable type linearly interpolated between consecutive order 
+statistics. From the nonparametric perspective of local smoothing, we examine inference on conditional quantiles, as well as linear combinations of conditional quantiles and conditional quantile 
+treatment effects. This paper develops a framework for translating the powerful, high-order accurate IDEAL results (Goldman and Kaplan, 2012) from their original unconditional context into a 
+conditional context, via a uniform kernel. Under mild smoothness assumptions, our new conditional IDEAL method's two-sided pointwise coverage probability error is O(n-2/(2+d)), where d is the dimension 
+of the conditioning vector and n is the total sample size. For d ≤ 2, this is better than the conventional inference based on asymptotic normality or a standard bootstrap. It is also better for other d 
+depending on smoothness assumptions. For example, conditional IDEAL is more accurate for d = 3 unless 11 or more derivatives of the unknown function exist and a corresponding local polynomial of degree 
+11 is used (which has 364 terms since interactions are required). Even as d → ∞, conditional IDEAL is more accurate unless the number of derivatives is at least four, and the number of terms in the 
+corresponding local polynomial goes to infinity as d → ∞. The tradeoff between the effective (local) sample size and bias determines the optimal bandwidth rate, and we propose a feasible plug-in 
+bandwidth. Simulations show that IDEAL is more accurate than popular current methods, significantly reducing size distortion in some cases while substantially increasing power (while still controlling 
+size) in others. Computationally, our new method runs much more quickly than existing methods for medium and large datasets (roughly n ≥ 1000). We also examine health outcomes in Indonesia for an 
+empirical example.
+Classification-JEL: C01, C12, C21
+Keywords: fractional order statistics, nonparametric statistics, quantile inference, quantile treatment effect
+Note:
+Length: 56 pgs.
+Creation-Date: 2013-09-05
+Revision-Date: 
+Number: 1316
+Publication-Status: 
+File-URL: https://drive.google.com/file/d/1X79YkWZ8zgiUdS4uFCWqZB3qNQnPuOHb/view?usp=sharing
+File-Format: application/pdf
+File-Size:
+Handle: RePEc:umc:wpaper:1316

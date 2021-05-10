@@ -1,0 +1,26 @@
+Template-type: ReDIF-Paper 1.0
+Author-Name: Eric Ghysels
+Author-X-Name-First: Eric
+Author-X-Name-Last: Ghysels
+Author-Name: J. Isaac Miller
+Author-X-Name-First: J. Isaac
+Author-X-Name-Last: Miller
+Author-Email: millerjisaac@missouri.edu
+Author-Homepage: https://economics.missouri.edu/people/miller
+Author-Workplace-Name: Department of Economics, University of Missouri-Columbia
+Author-Workplace-Homepage: https://economics.missouri.edu
+Author-Person: pmi148
+Title: Testing for Cointegration with Temporally Aggregated and Mixed-frequency Time Series
+Abstract: We examine the effects of mixed sampling frequencies and temporal aggregation on standard tests for cointegration. While it is well known that aggregation and sampling frequency do not affect the long-run properties of time series, we find that the effects of aggregation on the size of commonly used tests may be severe. Matching sampling schemes of all series generally reduces size, and the nominal size is obtained when all series are skip-sampled in the same way -- e.g., end-of-period sampling. When matching is not feasible, the size of the likelihood-based trace test may be improved by using a mixed-frequency model rather than an aggregated model. However, a mixed-frequency strategy may not improve the size distortion of residual-based cointegration tests compared to aggregated series. We test stock prices and dividends for cointegration as an empirical demonstration of the size distortion.
+Classification-JEL: C12, C32
+Keywords: temporal aggregation, mixed sampling frequencies, cointegration, trace test, residual-based cointegration test
+Note: 
+Length: 31 pgs.
+Creation-Date: 2013-06-28
+Revision-Date: 2014-05-07
+Number: 1307
+Publication-Status: 
+File-URL: https://drive.google.com/file/d/1JUWS-ihqssSPc4qQAQCkkoX9T7XVJVJ1/view?usp=sharing
+File-Format: application/pdf
+File-Size:
+Handle: RePEc:umc:wpaper:1307

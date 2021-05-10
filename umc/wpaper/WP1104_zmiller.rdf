@@ -1,0 +1,28 @@
+Template-type: ReDIF-Paper 1.0
+Author-Name: J. Isaac Miller
+Author-X-Name-First: J. Isaac
+Author-X-Name-Last: Miller
+Author-Email: millerjisaac@missouri.edu
+Author-Homepage: https://economics.missouri.edu/people/miller
+Author-Workplace-Name: Department of Economics, University of Missouri-Columbia
+Author-Workplace-Homepage: https://economics.missouri.edu
+Author-Person: pmi148
+Title:  Cointegrating MiDaS Regressions and a MiDaS Test 
+Abstract:  This paper introduces cointegrating mixed data sampling (CoMiDaS) regressions, generalizing nonlinear MiDaS regressions in the extant literature. 
+Under a linear mixed-frequency data-generating process, MiDaS regressions provide a parsimoniously parameterized nonlinear alternative when the linear 
+forecasting model is over-parameterized and may be infeasible. In spite of potential correlation of the error term both serially and with the regressors, I 
+find that nonlinear least squares consistently estimates the minimum mean-squared forecast error parameter vector. The exact asymptotic distribution of the 
+difference may be non-standard. I propose a novel testing strategy for nonlinear MiDaS and CoMiDaS regressions against a general but possibly infeasible 
+linear alternative. An empirical application to nowcasting global real economic activity using monthly covariates illustrates the utility of the approach.
+Classification-JEL: C12, C13, C22
+Keywords: cointegration, mixed-frequency series, mixed data sampling
+Note: Substantially revised and updated as WP 12-11
+Length: 38 pgs.
+Creation-Date: 2011-06-14
+Revision-Date:
+Number: 1104
+Publication-Status: 
+File-URL: https://drive.google.com/file/d/1z8gQQk6LD9nh1UOPCMFOUSu13yDCRlIL/view?usp=sharing
+File-Format: application/pdf
+File-Size:
+Handle: RePEc:umc:wpaper:1104

@@ -1,0 +1,42 @@
+Template-type: ReDIF-Paper 1.0
+Author-Name: Yoosoon Chang
+Author-X-Name-First: Yoosoon
+Author-X-Name-Last: Chang
+Author-Name: Chang Sik Kim
+Author-X-Name-First: Chang Sik
+Author-X-Name-Last: Kim
+Author-Name: J. Isaac Miller
+Author-X-Name-First: J. Isaac
+Author-X-Name-Last: Miller
+Author-Email: millerjisaac@missouri.edu
+Author-Homepage: https://economics.missouri.edu/people/miller
+Author-Workplace-Name: Department of Economics, University of Missouri-Columbia
+Author-Workplace-Homepage: https://economics.missouri.edu
+Author-Person: pmi148
+Author-Name: Joon Y. Park
+Author-X-Name-First: Joon Y.
+Author-X-Name-Last: Park
+Author-Name: Sungkeun Park
+Author-X-Name-First: Sungkeun
+Author-X-Name-Last: Park
+Title: Time-varying Long-run Income and Output Elasticities of Electricity Demand
+Abstract: It is widely accepted that long-run elasticities of demand for electricity are not stable over time. We model long-run sectoral electricity 
+demand using a time-varying cointegrating vector. Specifically, the coefficient 
+on income (residential sector) or output (commercial and industrial sectors) is allowed to follow a smooth semiparametric function of time, providing a 
+flexible specification that allows more accurate out-of-sample forecasts 
+than either fixed or discretely changing regression coefficients. We fit the model to Korean data over 1995:01-2012:12 for the residential sector and 
+1985:01-2012:12 for the commercial and industrial sectors. The rapid 
+development of Korea over this period provides a very clear case for allowing the coefficient on income/output to vary over time, but the essential 
+modeling strategy is widely applicable.
+Classification-JEL: C14, C22, Q41
+Keywords: electricity demand, income elasticity of demand, output elasticity of conditional factor demand, cointegration, time-varying coefficients
+Note: 
+Length: 37 pgs.
+Creation-Date: 2014-06-03
+Revision-Date:
+Number: 1409
+Publication-Status: Published in Energy Economics 2014
+File-URL: https://drive.google.com/file/d/1RP9PIOs2M5xPgQUH2d4iIcvA8loLWHNT/view?usp=sharing
+File-Format: application/pdf
+File-Size:
+Handle: RePEc:umc:wpaper:1409

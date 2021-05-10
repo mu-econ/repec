@@ -1,0 +1,41 @@
+Template-type: ReDIF-Paper 1.0
+Author-Name: Shawn Ni
+Author-X-Name-First: Shawn
+Author-X-Name-Last: Ni
+Author-Email: NiX@missouri.edu
+Author-Homepage: https://economics.missouri.edu/people/ni
+Author-Workplace-Name: Department of Economics, University of Missouri-Columbia
+Author-Workplace-Homepage: https://economics.missouri.edu
+Author-Person: pni294
+Author-Name: Antonello Loddo
+Author-X-Name-First: Antonello
+Author-X-Name-Last: Loddo
+Author-Name: Dongchu Sun
+Author-X-Name-First: Dongchu
+Author-X-Name-Last: Sun
+Title: Selection of Multivariate Stochastic Volatility Models via Bayesian Stochastic Search 
+Abstract: We propose a Bayesian stochastic search approach to selecting
+restrictions on multivariate regression models where the errors
+exhibit deterministic or stochastic conditional volatilities. We
+develop a Markov Chain Monte Carlo (MCMC) algorithm that generates
+posterior restrictions on the regression coefficients and Cholesky
+decompositions of the covariance matrix of the errors. Numerical
+simulations with artificially generated data show that the
+proposed method is effective in selecting the data-generating
+model restrictions and improving the forecasting performance of
+the model. Applying the method to daily foreign exchange rate
+data, we conduct stochastic search on a VAR model with stochastic
+conditional volatilities.
+Classification-JEL: C11, C15, C32
+Keywords: Bayesian VAR, Particle Filter, Markov Chain Monte Carlo, Model Selection 
+Note:
+Length: 37 pgs.
+Creation-Date: 2009-10-12
+Revision-Date: 
+Number: 0911
+Publication-Status: 
+File-URL: https://drive.google.com/file/d/1YxTSEN6w1lWP0g4WZHT8GQ4FJmFJe24G/view?usp=sharing
+File-Format: application/pdf
+File-Size:
+Handle: RePEc:umc:wpaper:0911
+

@@ -1,0 +1,23 @@
+Template-type: ReDIF-Paper 1.0
+Author-Name: J. Isaac Miller
+Author-X-Name-First: J. Isaac
+Author-X-Name-Last: Miller
+Author-Email: millerjisaac@missouri.edu
+Author-Homepage: https://economics.missouri.edu/people/miller
+Author-Workplace-Name: Department of Economics, University of Missouri-Columbia
+Author-Workplace-Homepage: https://economics.missouri.edu
+Author-Person: pmi148
+Title: Simple Robust Tests for the Specification of High-Frequency Predictors of a Low-Frequency Series
+Abstract: I propose two variable addition test statistics aimed at the specification of a high-frequency predictor of a series observed at a lower frequency. Under the null, the high-frequency predictor is aggregated to the low frequency versus mixed-frequency alternatives. The first test statistic is similar to those in the extant literature, but I show its robustness to conditionally biased forecast error and cointegrated and deterministically trending covariates. It is feasible and consistent even if estimation is not feasible under the alternative. However, its size is not robust to nuisance parameters when the high-frequency predictor is stochastically trending, and size distortion may be severe. The second test statistic is a simple modification of the first that sacrifices power in order to correct this distortion. An application to forecasting and nowcasting monthly state-level retail gasoline prices illustrates how the test statistics may be utilized when the presence of nuisance parameters and orders of integration are unknown. 
+Classification-JEL: C12, C22, Q41
+Keywords: temporal aggregation, mixed-frequency model, MIDAS, variable addition test, forecasting model comparison, retail gasoline prices
+Note: 
+Length: 29 pgs.
+Creation-Date: 2014-07-14
+Revision-Date:
+Number: 1412
+Publication-Status: 
+File-URL: https://drive.google.com/file/d/1MNme-vXDPXe6T7gBxOzQyuKOrUFi48kL/view?usp=sharing
+File-Format: application/pdf
+File-Size:
+Handle: RePEc:umc:wpaper:1412

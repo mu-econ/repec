@@ -1,0 +1,37 @@
+Template-type: ReDIF-Paper 1.0
+Author-Name: Joseph H. Haslag
+Author-Name-First: Joseph
+Author-Name-Last:  Haslag
+Author-Email: haslagj@missouri.edu
+Author-Homepage: https://economics.missouri.edu/people/haslag
+Author-Workplace-Name: Department of Economics, University of Missouri-Columbia
+Author-Workplace-Homepage: https://economics.missouri.edu
+Author-Person: pha73
+Author-Name:  Xue Li 
+Author-Name-First:  Xue
+Author-Name-Last:Li
+Title: Money, Interest Rates and Output Revisited
+Abstract: There is a long tradition in economic research that studies the relationship between money,
+interest rates and output. In this paper, we specify VARs using cyclical measures of monetary aggregate,
+interest rates, and output to assess whether money has marginal predictive content for output. Because
+there is no consensus on how to identify the cyclical component, we consider four alternatives. One goal
+is to re-examine the result that when the interest rate variable is included, the marginal predictive content
+of money become insignificant. In addition, we decompose the monetary aggregates into base money and
+money multiplier components. In this way, we can determine whether inside money has marginal
+predictive content for output. We can also assess whether the interest rate has marginal predictive content
+for the money multiplier. The evidence suggests that with the M2 aggregate, movements in money do
+temporally precede movements in output. However, the evidence is strong that movements in interest
+rates temporally precede movements in output. The evidence is mixed regarding the movements in
+interest rates and future movements in the money multiplier.
+Length: 46 pages
+Creation-Date: 2015-04-22
+Revision-Date:
+Publication-Status:
+File-URL: https://drive.google.com/file/d/1jyWPz2Qkgn4r_XUHkClCoj3ZxOkOhhRq/view?usp=sharing
+File-Format: Application/pdf
+File-Function:
+Number: 1507
+Classification-JEL: E31, E32, E51
+Keywords:  Detrending methods, marginal predictive content, inside money vs. outside money,
+time-varying VAR
+Handle: RePEc:umc:wpaper:1507

@@ -1,0 +1,28 @@
+Template-type: ReDIF-Paper 1.0
+Author-Name: J. Isaac Miller
+Author-X-Name-First: J. Isaac
+Author-X-Name-Last: Miller
+Author-Email: millerjisaac@missouri.edu
+Author-Homepage: https://economics.missouri.edu/people/miller
+Author-Workplace-Name: Department of Economics, University of Missouri-Columbia
+Author-Workplace-Homepage: https://economics.missouri.edu
+Author-Person: pmi148
+Title: Mixed-frequency Cointegrating Regressions with Parsimonious Distributed Lag Structures
+Abstract: Parsimoniously specified distributed lag models have enjoyed a resurgence under the MiDaS moniker (Mixed Data Sampling) as a feasible way to model time series observed at 
+very different sampling frequencies. I introduce cointegrating mixed data sampling (CoMiDaS) regressions. I derive asymptotic limits under substantially more general conditions than 
+the extant theoretical literature allows. In addition to the possibility of cointegrated series, I allow for regressors and an error term with general correlation patterns, both 
+serially and mutually. The nonlinear least squares estimator still obtains consistency to the minimum mean-squared forecast error parameter vector, and the asymptotic distribution 
+of the coefficient vector is Gaussian with a possibly singular variance. I propose a novel test of a MiDaS null against a more general and possibly infeasible alternative mixed-
+frequency specification. An empirical application to nowcasting global real economic activity using monthly financial covariates illustrates the utility of the approach.
+Classification-JEL: C12, C13, C22
+Keywords: cointegration, mixed-frequency time series, mixed data sampling (MiDaS), autoregressive distributed lag, GDP forecasts
+Note: 
+Length: 35 pgs.
+Creation-Date: 2012-08-27
+Revision-Date:
+Number: 1211
+Publication-Status: Published in Journal of Financial Econometrics 2014
+File-URL: https://drive.google.com/file/d/1z8gQQk6LD9nh1UOPCMFOUSu13yDCRlIL/view?usp=sharing
+File-Format: application/pdf
+File-Size:
+Handle: RePEc:umc:wpaper:1211

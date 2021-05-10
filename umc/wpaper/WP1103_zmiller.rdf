@@ -1,0 +1,30 @@
+Template-type: ReDIF-Paper 1.0
+Author-Name: J. Isaac Miller
+Author-X-Name-First: J. Isaac
+Author-X-Name-Last: Miller
+Author-Email: millerjisaac@missouri.edu
+Author-Homepage: https://economics.missouri.edu/people/miller
+Author-Workplace-Name: Department of Economics, University of Missouri-Columbia
+Author-Workplace-Homepage: https://economics.missouri.edu
+Author-Person: pmi148
+Title: Conditionally Efficient Estimation of Long-run Relationships Using Mixed-frequency Time Series 
+Abstract:  I analyze efficient estimation of a cointegrating vector when the regressand is observed at a lower frequency than the regressors. Previous authors have examined the 
+effects of specific temporal aggregation or sampling schemes, finding conventionally efficient techniques to be efficient only when both the regressand and the regressors are 
+average sampled. Using an alternative method for analyzing aggregation under more general weighting schemes, I derive an efficiency bound that is conditional on the type of 
+aggregation used on the regressand and differs from the unconditional bound defined by the infeasible full-information high-frequency data-generating process. I modify a 
+conventional estimator, canonical cointegrating regression (CCR), to accommodate cases in which the aggregation weights are either unknown or known. In the unknown case, the 
+correlation structure of the error term generally confounds identification of the conditionally efficient weights. In the known case, the correlation structure may be utilized to 
+offset the potential information loss from aggregation, resulting in a conditionally efficient estimator. Efficiency is illustrated using a simulation study and an application to 
+estimating a gasoline demand equation. 
+Classification-JEL: C13, C22
+Keywords: cointegration, canonical cointegrating regression, temporal aggregation, mixed-frequency series, mixed data sampling, price elasticity of gasoline demand
+Note:
+Length: 27 pgs.
+Creation-Date: 2011-05-19
+Revision-Date: 2012-05-30
+Number: 1103
+Publication-Status: Forthcoming in Econometric Reviews
+File-URL: https://drive.google.com/file/d/1O8yX7UZxUGN7xrWBvtacR4vvpna6ZPcg/view?usp=sharing
+File-Format: application/pdf
+File-Size:
+Handle: RePEc:umc:wpaper:1103

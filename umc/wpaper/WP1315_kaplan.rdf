@@ -1,0 +1,34 @@
+Template-type: ReDIF-Paper 1.0
+Author-Name: David M. Kaplan
+Author-X-Name-First: David
+Author-X-Name-Middle: M.
+Author-X-Name-Last: Kaplan
+Author-Email: KaplanDM@Missouri.edu
+Author-Homepage: https://economics.missouri.edu/people/kaplan
+Author-Workplace-Name: Department of Economics, University of Missouri-Columbia
+Author-Workplace-Homepage: https://economics.missouri.edu
+Author-Person: pka649
+Author-Name: Matt Goldman
+Author-X-Name-First: Matt
+Author-X-Name-Last: Goldman
+Title: IDEAL Quantile Inference via Interpolated Duals of Exact Analytic L-statistics
+Abstract: The literature has two types of fractional order statistics: an `ideal' (unobserved) type based on a beta distribution, and an observable type linearly interpolated between consecutive order 
+statistics. We show convergence in distribution of the two types at an O(n-1) rate, which we also show holds for joint vectors and linear combinations of fractional order statistics. This connection 
+justifies use of the linearly interpolated type in practice when sampling theory is based on the `ideal' type. For example, the coverage probability error (CPE) has the same O(n-1) magnitude for one-
+sample nonparametric joint confidence intervals over multiple quantiles. For a single quantile, our new analytic calibration reduces the CPE to nearly O(n-3/2), and our new inference method on linear 
+combinations of quantiles has O(n-2/3) CPE. With additional theoretical work, we propose a new method for two-sample quantile treatment effect inference, which has two-sided CPE of order O(n-2/3), or 
+O(n-1) under exchangeability, and one-sided CPE of order O(n-1/2). In an application of our method to data from a recent paper on "gift exchange," we reveal interesting heterogeneity in the treatment 
+effect of "gift wages." In simulations, our quantile treatment effect hypothesis test compares favorably with existing methods in both size and power properties. Along the way, we provide highorder 
+approximations of the PDF and PDF derivative of a Dirichlet distribution in terms of the normal.
+Classification-JEL: C01, C12, C21
+Keywords: fractional order statistics, nonparametric statistics, quantile inference, quantile treatment effect
+Note:
+Length: 80 pgs.
+Creation-Date: 2013-09-05
+Revision-Date: 
+Number: 1315
+Publication-Status: 
+File-URL: https://drive.google.com/file/d/1YX7HSNhXgc4vGqZujkIP4Vh31xnfKh4G/view?usp=sharing
+File-Format: application/pdf
+File-Size:
+Handle: RePEc:umc:wpaper:1315

@@ -1,0 +1,29 @@
+﻿Template-type: ReDIF-Paper 1.0
+Author-Name: David M. Kaplan
+Author-X-Name-First: David
+Author-X-Name-Middle: M.
+Author-X-Name-Last: Kaplan
+Author-Email: KaplanDM@Missouri.edu
+Author-Homepage: https://economics.missouri.edu/people/kaplan
+Author-Workplace-Name: Department of Economics, University of Missouri-Columbia
+Author-Workplace-Homepage: https://economics.missouri.edu
+Author-Person: pka649
+Author-Name: Yixiao Sun
+Author-X-Name-First: Yixiao
+Author-X-Name-Last: Sun
+Title: Smoothed Estimating Equations for Instrumental Variables Quantile Regression
+Abstract: The moment conditions or estimating equations for instrumental variables quantile regression involves the discontinuous indicator function. We instead use smoothed estimating equations, with 
+bandwidth h. This is known to allow higher-order expansions that justify bootstrap refinements for inference. Computation of the estimator also becomes simpler and more reliable, especially with (more) 
+endogenous regressors. We show that the mean squared error of the vector of estimating equations is minimized for some h > 0, which also reduces the mean squared error of the parameter estimators. The 
+same h also minimizes higher-order type I error for a χ2 test, leading to improved size-adjusted power. Our plug-in bandwidth consistently reproduces all of these properties in simulations.
+Classification-JEL: C01, C12, C13, C21, C26
+Keywords: bandwidth choice, higher-order properties, instrumental variables, quantile regression, smoothing
+Note:Length: 34 pgs.
+Creation-Date: 2013-09-05
+Revision-Date: 
+Number: 1314
+Publication-Status: 
+File-URL: https://drive.google.com/file/d/1Wnyhyvn_PYInsdXu7DuK62JLry0aA0pd/view?usp=sharing
+File-Format: application/pdf
+File-Size:
+Handle: RePEc:umc:wpaper:1314

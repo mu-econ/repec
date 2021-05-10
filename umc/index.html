@@ -6,8 +6,9 @@
         const data = await response.json();
         let htmlString = 'This directory (umc) contains:<ul>';
         for (let file of data) {
-          let filename = '${file.name}';
+          let filename = `${file.name}`;
           htmlString += '<li>';
+          htmlString += file.name
           htmlString += filename
           htmlString += filename.substring(3)
           let tmp = filename.lastIndexOf('.');

@@ -1,0 +1,25 @@
+Template-type: ReDIF-Paper 1.0
+Author-Name: Peter R. Mueser
+Author-X-Name-First: Peter
+Author-X-Name-Last: Mueser
+Author-Email: mueserp@missouri.edu
+Author-Homepage: https://economics.missouri.edu/people/mueser
+Author-Workplace-Name: Department of Economics, University of Missouri-Columbia
+Author-Workplace-Homepage: https://economics.missouri.edu/
+Author-Person: pmu471
+Author-Name: Kenneth Troske
+Author-Name: Alexey Gorislavsky
+Title: Using State Administrative Data to Measure Program Performance
+Abstract: This paper uses administrative data from Missouri to examine the sensitivity of job training program impact estimates based on alternative nonexperimental methods. In addition to simple regression adjustment, we consider Mahalanobis distance matching and a variety of methods using propensity score matching. In each case, we consider estimates based on levels of post-program earnings as well as difference-in-difference estimates based on comparison of pre and post-program earnings. Specification tests suggest that the difference-in-difference estimator may provide a better measure of program impact. We find that propensity score matching is generally most effective, but the detailed implementation of the method is not of critical importance. Our analyses demonstrate that existing data available at the state level can be used to obtain useful estimates of program impact.
+Classification-JEL: H43, I38, I28
+Keywords: Noexperimental Methods, Matching, Difference-in-Difference
+Note: Paper updated as WP 05-20
+Length: 15 pgs.
+Creation-Date: 2003-05-20
+Revision-Date: 
+Number: 0309
+Publication-Status: 
+File-URL: https://drive.google.com/file/d/13MRpSOoTpUQatQ9hxCTdAfWG-WnzBZ0u/view?usp=sharing
+File-Format: application/pdf
+File-Size:
+Handle: RePEc:umc:wpaper:0309

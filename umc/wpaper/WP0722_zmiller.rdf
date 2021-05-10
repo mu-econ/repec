@@ -1,0 +1,31 @@
+Template-type: ReDIF-Paper 1.0
+Author-Name: J. Isaac Miller
+Author-X-Name-First: J. Isaac
+Author-X-Name-Last: Miller
+Author-Email: millerjisaac@missouri.edu
+Author-Homepage: https://economics.missouri.edu/people/miller
+Author-Workplace-Name: Department of Economics, University of Missouri-Columbia
+Author-Workplace-Homepage: https://economics.missouri.edu
+Author-Person: pmi148
+Title: Cointegrating Regressions with Messy Regressors: Missingness, Mixed Frequency, and Measurement Error 
+Abstract: We consider a cointegrating regression in which the integrated regressors are
+messy in the sense that they contain data that may be mismeasured, missing, 
+observed at mixed frequencies, or have other irregularities that cause the econometrician
+to observe them with mildly nonstationary noise. Least squares estimation
+of the cointegrating vector is consistent. Existing prototypical variancebased
+estimation techniques, such as canonical cointegrating regression (CCR),
+are both consistent and asymptotically mixed normal. This result is robust to
+weakly dependent but possibly nonstationary disturbances.
+Classification-JEL: C13, C14, C32
+Keywords: cointegration, canonical cointegrating regression, near-epoch dependence,
+messy data, missing data, mixed-frequency data, measurement error, interpolation
+Note:
+Length: 30 pgs.
+Creation-Date: 2007-11-27
+Revision-Date: 2009-04-15
+Number: 0722
+Publication-Status: Published as "Cointegrating Regressions with Messy Regressors and an Application to Mixed-frequency Series" in Journal of Time Series Analysis 2010
+File-URL: https://drive.google.com/file/d/1STT29yfRsiZ2H4plMGnifi-nIG9GPhwp/view?usp=sharing
+File-Format: application/pdf
+File-Size:
+Handle: RePEc:umc:wpaper:0722

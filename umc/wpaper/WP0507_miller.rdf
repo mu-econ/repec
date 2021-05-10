@@ -1,0 +1,46 @@
+Template-type: ReDIF-Paper 1.0
+Author-Name: J. Isaac Miller
+Author-X-Name-First: J. Isaac
+Author-X-Name-Last: Miller
+Author-Email: millerjisaac@missouri.edu
+Author-Homepage: https://economics.missouri.edu/people/miller
+Author-Workplace-Name: Department of Economics, University of Missouri-Columbia
+Author-Workplace-Homepage: https://economics.missouri.edu
+Author-Person: pmi148
+Author-Name: Yoosoon Chang
+Author-X-Name-First: Yoosoon
+Author-X-Name-Last: Chang
+Author-Name: Joon Y. Park
+Author-X-Name-First: Joon Y.
+Author-X-Name-Last: Park
+Title: Extracting a Common Stochastic Trend:Theories with Some Applications
+Abstract: This paper investigates the statistical properties of the Kalman filter for state
+space models including integrated time series. In particular, we derive the full
+asymptotics of maximum likelihood estimation for some prototypical class of
+such models, i.e., the models with a single latent common stochastic trend.
+Indeed, we establish the consistency and asymptotic mixed normality of the
+maximum likelihood estimator and show that the conventional method of infer-
+ence is valid for this class of models. The models considered explicitly in the
+paper comprise a special, yet useful, class of models that we may use to extract
+the common stochastic trend from multiple integrated time series. As we show
+in the paper, the models can be very useful to obtain indices that represent
+fluctuations of various markets or common latent factors that affect a set of
+economic and financial variables simultaneously. Moreover, our derivation of
+the asymptotics of this class makes it clear that the asymptotic Gaussianity and
+the validity of the conventional inference for the maximum likelihood procedure
+extends to a larger class of more general state space models involving integrated
+time series. Finally, we demonstrate the utility of the state space model by ex-
+tracting a common stochastic trend in three empirical analyses: interest rates,
+return volatility and trading volume, and Dow Jones stock prices. 
+Classification-JEL: C13, C32
+Keywords: state space model, Kalman filter, common stochastic trend, maximum likelihood estimation, stock price index, interest rates, return volatility and trading volume.
+Note:
+Length: 38 pgs.
+Creation-Date: 2005-10-15
+Revision-Date: 2005-08-18
+Number: 0507
+Publication-Status: Published in Journal of Econometrics 2009
+File-URL: https://drive.google.com/file/d/1TI9Iiai_sqJn15h6qsepjsQYV4d3CoZO/view?usp=sharing
+File-Format: application/pdf
+File-Size:
+Handle: RePEc:umc:wpaper:0507

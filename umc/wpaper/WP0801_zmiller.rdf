@@ -1,0 +1,32 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: J. Isaac Miller
+Author-X-Name-First: J. Isaac
+Author-X-Name-Last: Miller
+Author-Email: millerjisaac@missouri.edu
+Author-Homepage: https://economics.missouri.edu/people/miller
+Author-Workplace-Name: Department of Economics, University of Missouri-Columbia
+Author-Workplace-Homepage: https://economics.missouri.edu
+Author-Person: pmi148
+Author-Name: Joon Y. Park
+Author-X-Name-First: Joon Y.
+Author-X-Name-Last: Park
+Title: Nonlinearity, Nonstationarity, and Thick Tails: How They Interact to Generate Persistency in Memory 
+Abstract: We consider nonlinear transformations of random walks driven by thick-tailed innovations that may have infinite means or variances. These three nonstandard characteristics: nonlinearity, nonstationarity, and thick tails interact to generate a spectrum of asymptotic autocorrelation patterns consistent with long-memory processes. Such 
+autocorrelations may decay very slowly as the number of lags increases or may not decay at all and remain constant at all lags. Depending upon the type of transformation considered 
+and how the model error is speci- fied, the autocorrelation functions are given by random constants, deterministic functions that decay slowly at hyperbolic rates, or mixtures of 
+the two. Such patterns, along with other sample characteristics of the transformed time series, such as jumps in the sample path, excessive volatility, and leptokurtosis, suggest 
+the possibility that these three ingredients are involved in the data generating processes of many actual economic and financial time series data. In addition to time series 
+characteristics, we explore nonlinear regression asymptotics when the regressor is observable and an alternative regression technique when it is unobservable. To illustrate, we 
+examine two empirical applications: wholesale electricity price spikes driven by capacity shortfalls and exchange rates governed by a target zone.
+Classification-JEL: C16
+Keywords: persistency in memory, nonlinear transformations, random walks, thick tails, stable distributions, wholesale electricity prices, target zone exchange rates
+Note:
+Length: 43 pgs.
+Creation-Date: 2008-01-15
+Revision-Date:
+Number: 0801
+Publication-Status: Published in Journal of Econometrics 2010 (revised version)
+File-URL: https://drive.google.com/file/d/131AkPj1Nz0uY6cBcGYpxIsCy02Nn4vP5/view?usp=sharing
+File-Format: application/pdf
+File-Size:
+Handle: RePEc:umc:wpaper:0801

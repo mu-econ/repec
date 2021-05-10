@@ -1,0 +1,24 @@
+Template-type: ReDIF-Paper 1.0
+Author-Name: David Mandy
+Author-X-Name-First: David
+Author-X-Name-Last: Mandy
+Author-Email: MandyD@missouri.edu
+Author-Homepage: https://economics.missouri.edu/people/mandy
+Author-Workplace-Name: Department of Economics, University of Missouri-Columbia
+Author-Workplace-Homepage: https://economics.missouri.edu
+Author-Person: pma1941
+Author-Name: Sandor Fridli 
+Title: Exact FGLS Asymptotics for MA Errors
+Abstract: We show under very parsimonious assumptions that FGLS and GLS are asymptotically equivalent when errors follow an invertible MA(1) process. Although the linear regression model with MA errors has been studied for many years, asymptotic equivalence of FGLS and GLS has never been established for this model. We do not require anything beyond a finite second moment of the conditional white noise, uniformly bounded fourth moments and independence of the regressor vectors, consistency of the estimator for the MA parameter, and a finite nonsingular probability limit for the (transformed) averages of the regressors. These assumptions are analogous to assumptions typically used to prove asymptotic equivalence of FGLS and GLS in SUR models, models with AR(p) errors, and models of parametric heteroscedasticity. 
+Classification-JEL: L5
+Keywords: Moving Average, Generalized Least Squares, Asymptotic Distribution
+Note:
+Length: 9 pgs.
+Creation-Date: 2004-12-16
+Revision-Date: 2004-12-16
+Number: 0405
+Publication-Status: 
+File-URL: https://drive.google.com/file/d/1KitTAthffUfRIEc9aKilRWHN31HNBQun/view?usp=sharing
+File-Format: application/pdf
+File-Size:
+Handle: RePEc:umc:wpaper:0405

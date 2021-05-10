@@ -1,0 +1,25 @@
+Template-type: ReDIF-Paper 1.0
+Author-Name: Jeffrey Milyo
+Author-X-Name-First: Jeffrey
+Author-X-Name-Last: Milyo
+Author-Email: milyoj@missouri.edu
+Author-Homepage: https://economics.missouri.edu/people/milyo
+Author-Workplace-Name: Department of Economics, University of Missouri-Columbia
+Author-Workplace-Homepage: https://economics.missouri.edu
+Author-Person: pmi134
+Author-Name: David M. Primo
+Author-Name: Matthew L. Jacobsmeier
+Title: Estimating the Impact of State Policies and Institutions with Mixed-Level Data
+Abstract: Researchers often seek to understand the effects of state policies or institutions on individualbehavior or other outcomes in sub-state-level observational units (e.g., election results in statelegislative districts). However, standard estimation methods applied to such models do notproperly account for the clustering of observations within states and may lead researchers tooverstate the statistical significance of state-level factors. We discuss the theory behind twoapproaches to dealing with clustering clustered standard errors and multilevel modeling. Wethen demonstrate the relevance of this topic by replicating a recent study of the effects of statepost-registration laws on voter turnout (Wolfinger, Highton, and Mullin 2005). While we viewclustered standard errors as a more straightforward, feasible approach, especially when workingwith large datasets or many cross-level interactions, our purpose in this Practical Researcherpiece is to draw attention to the issue of clustering in state and local politics research.
+Classification-JEL: C10, D79, H79
+Keywords: mixed-level data, voter turnout
+Note:
+Length: 18 pgs.
+Creation-Date: 2006-02-22
+Revision-Date: 
+Number: 0603
+Publication-Status: 
+File-URL: https://drive.google.com/file/d/1TXiiRpxraLjL3pRhTS5w83fZaGxBXTs4/view?usp=sharing
+File-Format: application/pdf
+File-Size:
+Handle: RePEc:umc:wpaper:0603

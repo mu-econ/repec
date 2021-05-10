@@ -7,8 +7,9 @@
         let htmlString = 'This directory (umc) contains:<ul>';
         for (let file of data) {
           let tmp = file.name.lastIndexOf('.');
+          if (tmp>=0) htmlString += '<li>' + file.name.substring(tmp) + '</li>';
           if (tmp>=0 && file.name.substring(tmp)=='.rdf') {
-            htmlString += '<li>' + filename.substring(tmp+1) + '</li>';
+            htmlString += '<li>' + file.name.substring(tmp+1) + '</li>';
             htmlString += `<li><a href="https://raw.githubusercontent.com/mu-econ/repec/main/umc/${file.name}">${file.name}</a></li>`;
           }
         }

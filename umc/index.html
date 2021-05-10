@@ -6,12 +6,17 @@
         const data = await response.json();
         let htmlString = 'This directory (umc) contains:<ul>';
         for (let file of data) {
-          filename = '${file.name}';
-          tmp = filename.lastIndexOf('.');
-          if (tmp>=0 && filename.substring(tmp+1)=='.rdf') {
-          htmlString += '<li>' + filename.substring(tmp+1) + '</li>';
+          let filename = '${file.name}';
+          htmlString += '<li>';
+          htmlString += filename
+          htmlString += filename.substring(3)
+          let tmp = filename.lastIndexOf('.');
+          htmlString += tmp.toString();
+          htmlString += '</li>';
+          // if (tmp>=0 && filename.substring(tmp+1)=='.rdf') {
+            // htmlString += '<li>' + filename.substring(tmp+1) + '</li>';
             htmlString += `<li><a href="https://raw.githubusercontent.com/mu-econ/repec/main/umc/${file.name}">${file.name}</a></li>`;
-          }
+          // }
         }
         htmlString += '</ul><a href="wpaper/">wpaper/</a>';
         document.getElementsByTagName('body')[0].innerHTML = htmlString;

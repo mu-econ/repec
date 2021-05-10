@@ -6,7 +6,10 @@
         const data = await response.json();
         let htmlString = 'This directory (umc/wpaper) contains:<ul>';
         for (let file of data) {
-          htmlString += `<li><a href="https://raw.githubusercontent.com/mu-econ/repec/main/umc/wpaper/${file.name}">${file.name}</a></li>`;
+          let tmp = file.name.lastIndexOf('.');
+          if (tmp>=0 && file.name.substring(tmp)=='.rdf') {
+            htmlString += `<li><a href="https://raw.githubusercontent.com/mu-econ/repec/main/umc/wpaper/${file.name}">${file.name}</a></li>`;
+          }
         }
         htmlString += '</ul>';
         document.getElementsByTagName('body')[0].innerHTML = htmlString;

@@ -1,0 +1,22 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Xin Liu
+Author-Name-First: Xin
+Author-Name-Last: Liu
+Author-Email: xl6f6@mail.missouri.edu 
+Author-Workplace-Name: Department of Economics, University of Missouri
+Title: Averaging estimation for instrumental variables quantile regression
+Abstract: This paper proposes averaging estimation methods to improve the finite-sample efficiency of the instrumental variables quantile regression (IVQR) estimation. First, I apply Cheng, Liao, Shi's (2019) averaging GMM framework to the IVQR model. I propose using the usual quantile regression moments for averaging to take advantage of cases when endogeneity is not too strong. I also propose using two-stage least squares slope moments to take advantage of cases when heterogeneity is not too strong. The empirical optimal weight formula of Cheng et al. (2019) helps optimize the bias-variance tradeoff, ensuring uniformly better (asymptotic) risk of the averaging estimator over the standard IVQR estimator under certain conditions. My implementation involves many computational considerations and builds on recent developments in the quantile literature. Second, I propose a bootstrap method that directly averages among IVQR, quantile regression, and two-stage least squares estimators. More specifically, I find the optimal weights in the bootstrap world and then apply the bootstrap-optimal weights to the original sample. The bootstrap method is simpler to compute and generally performs better in simulations, but it lacks the formal uniform dominance results of Cheng et al. (2019). Simulation results demonstrate that in the multiple-regressors/instruments case, both the GMM averaging and bootstrap estimators have uniformly smaller risk than the IVQR estimator across data-generating processes (DGPs) with all kinds of combinations of different endogeneity levels and heterogeneity levels. In DGPs with a single endogenous regressor and instrument, where averaging estimation is known to have least opportunity for improvement, the proposed averaging estimators outperform the IVQR estimator in some cases but not others. 
+Length:  59 pages
+Creation-Date:  2019-10
+Revision-Date: 
+Publication-Status: 
+
+File-URL: https://drive.google.com/file/d/15MV6YWWopBvqEE-yHy_Z5qZqK-ev2RLa/view?usp=sharing
+File-Format: Application/pdf
+File-Function: First version, 2019 
+Number:  1907
+
+Classification-JEL: C21, C26
+Keywords: 
+model selection, model averaging
+Handle: RePEc:umc:wpaper:1907

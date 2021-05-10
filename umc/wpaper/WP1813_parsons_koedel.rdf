@@ -1,0 +1,31 @@
+﻿Template-Type: ReDIF-Paper 1.0
+Author-Name: Eric Parsons
+Author-Name-First: Eric
+Author-Name-Last: Parsons
+Author-Workplace-Name: Department of Economics, University of Missouri-Columbia
+Author-Person:  ppa984
+Author-Email:  parsonses@missouri.edu
+Author-Homepage: https://economics.missouri.edu/people/parsons
+Author-Name: Cory Koedel
+Author-Name-First:  Cory
+Author-Name-Last: Koedel
+Author-Email:  Koedelc@missouri.edu
+Author-Homepage: https://economics.missouri.edu/people/koedel
+Author-Workplace-Name:  Department of Economics, University of Missouri-Columbia
+Author-Person: pko283
+Author-Name:  Li Tan
+Author-Name-First: Li
+Author-Name-Last: Tan
+Title: Accounting for Student Disadvantage in Value-Added Models
+Abstract: We study the relative performance of two policy relevant value-added models – a one-step fixed effect model and a two-step aggregated residuals model – using a simulated dataset well grounded in the value-added literature. A key feature of our data generating process is that student achievement depends on a continuous measure of economic disadvantage. This is a realistic condition that has implications for model performance because researchers typically have access to only a noisy, binary measure of disadvantage. We find that one- and two-step value-added models perform similarly across a wide range of student and teacher sorting conditions, with the two-step model modestly outperforming the one-step model in conditions that best match observed sorting in real data. A reason for the generally superior performance of the two-step model is that it better handles the use of an error-prone, dichotomous proxy for student disadvantage.
+Length: 51 pages
+Creation-Date:  2018-07
+Revision-Date: 
+Publication-Status: 
+File-URL: https://drive.google.com/file/d/1O-VEUKpdpj-EHEPxAWS6i2JAPiHYdfz1/view?usp=sharing
+File-Format: Application/pdf
+File-Function:  
+Number: 1813
+Classification-JEL:  C1, I2
+Keywords:  Value-added modeling, two-step value-added model, value-added simulation, measurement error
+Handle: RePEc:umc:wpaper:1813

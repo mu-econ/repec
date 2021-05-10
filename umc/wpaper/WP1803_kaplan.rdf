@@ -1,0 +1,37 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name:  Luciano de Castro
+Author-Name-First: Luciano
+Author-Name-Last: de Castro 
+Author-Email:  
+Author-Workplace-Name: University of Iowa
+Author-Person: 
+Author-Homepage: 
+Author-Name: Antonio F. Galvao
+Author-Name-First:   Antonio
+Author-Name-Last: Galvao
+Author-Email:    
+Author-Workplace-Name: University of Arizona
+Author-Person:
+Author-Name:  David M. Kaplan
+Author-Name-First: David
+Author-Name-Last: Kaplan
+Author-Email: kaplandm@missouri.edu
+Author-Homepage: https://economics.missouri.edu/people/kaplan
+Author-Workplace-Name: University of Missouri
+Author-Person: pka649
+Author-Name:  Xin Liu
+Author-Name-First: Xin
+Author-Name-Last: Liu
+Title:  Smoothed GMM for quantile models
+Abstract:  This paper develops theory for feasible estimation and testing of finite-dimensional parameters identified by general conditional quantile restrictions, under much weaker assumptions than previously seen in the literature.  This includes instrumental variables nonlinear quantile regression as a special case.  More specifically, we consider a set of unconditional moments implied by the conditional quantile restrictions, providing conditions for local identification.  Since estimators based on the sample moments are generally impossible to compute numerically in practice, we study feasible estimators based on smoothed sample moments.  We propose a method of moments estimator for exactly identified models, as well as a generalized method of moments estimator for over-identified models.  We establish consistency and asymptotic normality of both estimators under general conditions that allow for weakly dependent data and nonlinear structural models.  Simulations with iid and dependent data illustrate the finite-sample properties.  Our in-depth empirical application concerns the consumption Euler equation derived from quantile utility maximization.  Advantages of the quantile Euler equation include robustness to fat tails, decoupling of risk attitude from the elasticity of intertemporal substitution, and log-linearization without any approximation error.  For the four countries we examine, the quantile estimates of discount factor and elasticity of intertemporal substitution are economically reasonable for a range of quantiles above the median, even when two-stage least squares estimates are not reasonable.
+Length:  44 pages
+Creation-Date:  2018
+Revision-Date: 
+Publication-Status: Forthcoming at Journal of Econometrics
+File-URL: https://drive.google.com/file/d/1mCSFkpCtwT4vJdQRJUuBAKo0w87j1T4r/view?usp=sharing
+File-Format: Application/pdf
+File-Function:  
+Number:  1803
+Classification-JEL: C31, C32, C36
+Keywords: instrumental variables, nonlinear quantile regression, quantile utility maximization
+Handle: RePEc:umc:wpaper:1803

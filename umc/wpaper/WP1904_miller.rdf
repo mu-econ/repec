@@ -1,0 +1,25 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: William A. Brock 
+Author-Name-First: William A. 
+Author-Name-Last: Brock 
+Author-Name: J. Isaac Miller
+Author-Name-First: J. Isaac
+Author-Name-Last: Miller
+Author-Email: millerjisaac@missouri.edu
+Author-Workplace-Name: Department of Economics, University of Missouri
+Author-Person: pmi148
+Author-Homepage: https://economics.missouri.edu/people/miller
+Title: Beyond RCP8.5: Marginal Mitigation Using Quasi-Representative Concentration Pathways
+Abstract: Assessments of decreases in economic damages from climate change mitigation typically rely on climate output from computationally expensive precomputed runs of general circulation models (GCMs) under a handful of scenarios with discretely varying targets, such as the four representative concentration pathways (RCPs) for CO2 and other anthropogenically emitted gases. Although such analyses are extremely valuable in informing scientists and policymakers about specific, well-known, and massive mitigation goals, we add to the literature by considering potential outcomes from more modest policy changes that may not be represented by any concentration pathway or GCM output. We construct computationally efficient Quasi-representative Concentration Pathways (QCPs) in order to leverage existing scenarios featuring plausible concentration pathways. Computational efficiency allows for common statistical methods for assessing model uncertainty based on iterative replication, such as bootstrapping. We illustrate by feeding two QCPs through a computationally efficient statistical emulator and dose response functions extrapolated from estimates in the recent literature in order to gauge effects of mitigation on the relative risk of heat stress mortality.
+Length: 24 pages
+Creation-Date: 2019
+Revision-Date: 
+Publication-Status: 
+File-URL: https://drive.google.com/file/d/1Sn3B-WKIoYhFD2c1y4uVVYo_d-4qu7II/view?usp=sharing
+File-Format: Application/pdf
+File-Function:  
+Number:  1904
+Classification-JEL: C14, C33, C63, Q54
+Keywords: representative concentration pathways, statistical emulation, climate change mitigation, heat stress mortality
+Handle: RePEc:umc:wpaper:1904
+

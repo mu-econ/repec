@@ -1,0 +1,28 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Burak Alparslan Eroglu
+Author-Name-First: Burak
+Author-Name-Last: Eroglu
+Author-Name: J. Isaac Miller
+Author-Name-First: J. Isaac
+Author-Name-Last: Miller
+Author-Email: millerjisaac@missouri.edu
+Author-Workplace-Name: Department of Economics, University of Missouri
+Author-Person: pmi148
+Author-Homepage: https://economics.missouri.edu/people/miller
+Author-Name: Taner Yigit
+Author-Name-First: Taner
+Author-Name-Last: Yigit
+Title: Time-Varying Cointegration and the Kalman Filter
+Abstract: Published in Econometric Reviews (https://doi.org/10.1080/07474938.2020.1861776) We show that time-varying parameter state-space models estimated using the Kalman filter are particularly vulnerable to the problem of spurious regression, because the integrated error is transferred to the estimated state equation. We offer a simple yet effective methodology to reliably recover the instability in cointegrating vectors. In the process, the proposed methodology successfully distinguishes between the cases of no cointegration, fixed cointegration, and time-varying cointegration. We apply these proposed tests to elucidate the relationship between concentrations of greenhouse gases and global temperatures, an important relationship to both climate scientists and economists.
+Length: 24 pages
+Creation-Date: 2019-06-27
+Revision-Date: 
+Publication-Status: 
+File-URL: https://drive.google.com/file/d/1JLxA-OcS_cN5VQVWrEEgjWkSmljlc-3T/view?usp=sharing
+File-Format: Application/pdf
+File-Function:  
+Number:  1905
+Classification-JEL: C12, C32, C51, Q54
+Keywords: : time-varying cointegration, Kalman filter, spurious regression
+Handle: RePEc:umc:wpaper:1905
+

@@ -1,0 +1,26 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: David M. Kaplan
+Author-Name-First: David
+Author-Name-Last: Kaplan
+Author-Email: kaplandm@missouri.edu
+Author-Workplace-Name: Department of Economics, University of Missouri
+Author-Person: pka649
+Author-Homepage: https://faculty.missouri.edu/kaplandm/
+Author-Name: Lonnie Hofmann
+Author-Name-First: Lonnie
+Author-Name-Last: Hofmann
+Author-Email: lrh6df@mail.missouri.edu
+Author-Workplace-Name: Department of Economics, University of Missouri
+Title: High-order coverage of smoothed Bayesian bootstrap intervals for population quantiles
+Abstract: We characterize the high-order coverage accuracy of smoothed and unsmoothed Bayesian bootstrap confidence intervals for population quantiles. Although the original (Rubin, 1981) unsmoothed intervals have the same O(n^{-1/2}) coverage error as the standard empirical bootstrap, the smoothed Bayesian bootstrap of Banks (1988) has much smaller O(n^{-3/2}[log(n)]^3) coverage error and is exact in special cases, without requiring any smoothing parameter. It automatically removes an error term of order 1/n that other approaches need to explicitly correct for. This motivates further study of the smoothed Bayesian bootstrap in more complex settings and models.
+Length: 22 pages
+Creation-Date: 2020
+Revision-Date: 
+Publication-Status:
+File-URL: https://drive.google.com/file/d/1PPRk7xdBweiKOIee6St3rAovbOEdLMTW/view?usp=sharing
+File-Format: Application/pdf
+File-Function:  
+Number: 2012
+Classification-JEL: C21
+Keywords: continuity correction, credible intervals, fractional order statistics
+Handle: RePEc:umc:wpaper:2012

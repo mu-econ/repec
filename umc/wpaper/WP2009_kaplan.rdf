@@ -1,0 +1,21 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: David M. Kaplan
+Author-Name-First: David
+Author-Name-Last: Kaplan
+Author-Email: kaplandm@missouri.edu
+Author-Workplace-Name: Department of Economics, University of Missouri
+Author-Person: pka649
+Author-Homepage: https://economics.missouri.edu/people/kaplan 
+Title: sivqr: Smoothed IV quantile regression
+Abstract: In this article, I introduce the sivqr command, which estimates the coefficients of the instrumental variables (IV) quantile regression model introduced by Chernozhukov and Hansen (2005).  This model complements the alternative models underlying the commands cqiv, ivqreg2, and ivqte, and the sivqr command offers advantages over the apocryphal ivqreg command.  Computationally, sivqr implements the smoothed estimator of Kaplan and Sun (2017), who show the smoothing improves both computation time and statistical accuracy.  Standard errors are computed by Bayesian bootstrap; for non-i.i.d. sampling, sivqr is compatible with the bootstrap and svy bootstrap prefixes.  I discuss syntax and the underlying methodology.  Simulation and empirical examples illustrate the new sivqr command
+Length: 29 pages
+Creation-Date: 2020
+Revision-Date: 
+Publication-Status:
+File-URL: https://drive.google.com/file/d/1X7LbAIY_HGDexzhr52qNuKyqqXBzu3Cu/view?usp=sharing
+File-Format: Application/pdf
+File-Function:  
+Number: 2009
+Classification-JEL: C87
+Keywords: endogeneity, instrumental variables, structural
+Handle: RePEc:umc:wpaper:2009

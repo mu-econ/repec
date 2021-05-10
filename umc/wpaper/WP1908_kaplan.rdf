@@ -1,0 +1,21 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name:  David M. Kaplan
+Author-Name-First: David
+Author-Name-Last: Kaplan
+Author-Email: kaplandm@missouri.edu
+Author-Workplace-Name: Department of Economics, University of Missouri
+Author-Person: pka649
+Author-Homepage: https://economics.missouri.edu/people/kaplan 
+Title: distcomp: Comparing distributions
+Abstract: The distcomp command is introduced and illustrated.  The command assesses whether or not two distributions differ at each possible value while controlling the probability of any false positive, even in finite samples.  Syntax and the underlying methodology (from Goldman and Kaplan 2018) are discussed.  Multiple examples illustrate the distcomp command, including revisiting the experimental data of Gneezy and List (2006) and the regression discontinuity design of Cattaneo, Frandsen, and Titiunik (2015).
+Length: 16 pages
+Creation-Date: 2019
+Revision-Date: 
+Publication-Status: Forthcoming at Stata Journal 
+File-URL: https://drive.google.com/file/d/1IUuHnc2YDnlDiElR50DvNejqbHIeFgGQ/view?usp=sharing
+File-Format: Application/pdf
+File-Function: Revised version, 2019 
+Number: 1908
+Classification-JEL: C87
+Keywords: : st0001, distcomp, familywise error rate, ksmirnov, regression discontinuity, treatment effects
+Handle: RePEc:umc:wpaper:1908

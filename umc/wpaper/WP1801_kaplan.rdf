@@ -1,0 +1,27 @@
+﻿Template-type: ReDIF-Paper 1.0
+Author-Name: David M. Kaplan
+Author-X-Name-First: David
+Author-X-Name-Middle: M.
+Author-X-Name-Last: Kaplan
+Author-Email: KaplanDM@Missouri.edu
+Author-Homepage:  https://economics.missouri.edu/people/kaplan
+Author-Workplace-Name: Department of Economics, University of Missouri-Columbia
+Author-Workplace-Homepage: https://economics.missouri.edu
+Author-Person: pka649
+Author-Name: Matt Goldman
+Author-X-Name-First: Matt
+Author-X-Name-Last: Goldman
+Title: Comparing distributions by multiple testing across quantiles or CDF values
+Abstract: When comparing two distributions, it is often helpful to learn at which quantiles or values there is a statistically significant difference. This provides more information than the binary "reject" or "do not reject" decision of a global goodness-of-fit test. Framing our question as multiple testing across the continuum of quantiles tau in (0,1) or values r, we show that the Kolmogorov–Smirnov test (interpreted as a multiple testing procedure) achieves strong control of the familywise error rate. However, its well-known flaw of low sensitivity in the tails remains. We provide an alternative method that retains such strong control of familywise error rate while also having even sensitivity, i.e., equal pointwise type I error rates at each of n (going to infinity) order statistics across the distribution. Our one-sample method computes instantly, using our new formula that also instantly computes goodness-of-fit p-values and uniform confidence bands. To improve power, we also propose stepdown and pre-test procedures that maintain control of the asymptotic familywise error rate.  One-sample and two-sample cases are considered, as well as extensions to regression discontinuity designs and conditional distributions. Simulations, empirical examples, and code are provided.
+Classification-JEL: C12, C14, C21
+Keywords: Dirichlet, familywise error rate, Kolmogorov–Smirnov, probability integral transform, stepdown
+Note: Title change on 2018-02-22
+Length: 42 pgs.
+Creation-Date: 2018
+Revision-Date: 
+Number: 1801
+Publication-Status: Published in Journal of Econometrics, Volume 206, Issue 1, September 2018, Pages 143-166 https://doi.org/10.1016/j.jeconom.2018.04.003
+File-URL: https://drive.google.com/file/d/1UkkqiyQz8ZD4gX9Aosg1vw2p1C5aYmt-/view?usp=sharing
+File-Format: application/pdf
+File-Size:
+Handle: RePEc:umc:wpaper:1801

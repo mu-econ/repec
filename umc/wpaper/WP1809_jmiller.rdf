@@ -1,0 +1,22 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name:  J. Isaac Miller
+Author-Name-First: J.
+Author-Name-Last: Miller
+Author-Email:  millerjisaac@missouri.edu
+Author-Workplace-Name: Department of Economics, University of Missouri, Columbia, Missouri, USA
+Author-Person: pmi148
+Author-Homepage: https://economics.missouri.edu/people/miller
+Title:  Testing Cointegrating Relationships Using Irregular and Non-Contemporaneous Series with an Application to Paleoclimate Data
+Abstract: Published in the Journal of Time Series Analysis (https://doi.org/10.1111/jtsa.12469) Time series that are observed neither regularly nor contemporaneously pose problems for most multivariate analyses. Common and intuitive solutions to these problems include linear and step interpolation or other types of imputation to a higher, regular frequency. However, interpolation is known to cause serious problems with the size and power of statistical tests. Due to the difficulty in measuring stochastically varying paleoclimate phenomena such as CO2 concentrations and surface temperatures, time series of such measurements are observed neither regularly nor contemporaneously. This paper presents large- and small-sample analyses of the size and power of cointegration tests of time series with these features and confirms the robustness of cointegration of these two series found in the extant literature. Step interpolation is preferred over linear interpolation.
+Length: 18 pages
+Creation-Date:  2018-06-29
+Revision-Date: 
+Publication-Status: 
+File-URL: https://drive.google.com/file/d/1Ncxr9KU_5XQaRrUVyFjpo3clRlglKgYA/view?usp=sharing
+File-Format: Application/pdf
+File-Function:  
+Number:  1809
+Classification-JEL:   C12, C22, C32, Q54
+Keywords: cointegration, irregularly time series, non-contemporaneous time series, misaligned time series, paleoclimate data
+Handle: RePEc:umc:wpaper:1809
+

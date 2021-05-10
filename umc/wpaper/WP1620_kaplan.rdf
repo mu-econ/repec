@@ -1,0 +1,25 @@
+﻿Template-Type: ReDIF-Paper 1.0
+Author-Name:  David M. Kaplan
+Author-Name-First: David
+Author-Name-Last: Kaplan
+Author-Email: KaplanDM@Missouri.edu
+Author-Workplace-Name: Department of Economics, University of Missouri
+Author-Person: pka649
+Author-Homepage: https://economics.missouri.edu/people/kaplan
+Author-Name: Matt Goldman
+Author-Name-First: Matt
+Author-Name-Last: Goldman
+Title:  Nonparametric inference on conditional quantile differences and linear combinations, using L-statistics  
+Abstract: We provide novel, high-order accurate methods for nonparametric inference on quantile differences between two populations in both unconditional and conditional settings. These quantile differences identify (conditional) quantile treatment effects under (conditional) independence of a binary treatment and potential outcomes. Our methods use the probability integral transform and a Dirichlet (rather than Gaussian) reference distribution to pick appropriate L-statistics as confidence interval endpoints, achieving high-order accuracy. Using a similar approach, we also propose confidence intervals/sets for 1) vectors of quantiles, 2) interquantile ranges, and 3) differences of linear combinations of quantiles. In the conditional setting, when smoothing over continuous covariates, optimal bandwidth and coverage probability rates are derived for all methods. Simulations show the new confidence intervals to have a favorable combination of robust accuracy and short length compared with existing approaches. All code for methods, simulations, and empirical examples is provided.
+Length: 44 pgs.
+Creation-Date: 2016-11-21
+Revision-Date: 
+Publication-Status: Published in The Econometrics Journal, Volume 21, Issue 2, June 2018, Pages 136–169, http://doi.org/10.1111/ectj.12095
+File-URL: https://drive.google.com/file/d/1RxElYMNYVyOIQrIN8I3v-NkqhC3QjPi3/view?usp=sharing
+File-Format: Application/pdf
+File-Function:  
+Number:  1620
+Classification-JEL: C21
+Keywords: Dirichlet distribution, fractional order statistics, high-order accuracy, inequality, quantile treatment effects 
+Handle: RePEc:umc:wpaper:1620
+Note: Published in The Econometrics Journal, Volume 21, Issue 2, June 2018, Pages 136–169, https://doi.org/10.1111/ectj.12095

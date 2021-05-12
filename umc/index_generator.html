@@ -4,15 +4,14 @@
       (async () => {
         const response = await fetch('https://api.github.com/repos/mu-econ/repec/contents/umc');
         const data = await response.json();
-        let htmlString = 'This directory (umc) contains:<ul>';
+        let htmlString = '&lt;html&gt;<br/> &nbsp;&lt;body&gt;This directory (umc) contains:<br/> &nbsp; &nbsp;&lt;ul&gt;<br/>';
         for (let file of data) {
           let tmp = file.name.lastIndexOf('.');
           if (tmp>=0 && file.name.substring(tmp)=='.rdf') {
-            // htmlString += `<li><a href="https://raw.githubusercontent.com/mu-econ/repec/main/umc/${file.name}">${file.name}</a></li>`;
-            htmlString += `<li><a href="${file.name}">${file.name}</a></li>`;
+            htmlString += ` &nbsp; &nbsp; &nbsp;&lt;li&gt;&lt;a href="${file.name}"&gt;${file.name}&lt;/a&gt;&lt;/li&gt;<br/>`;
           }
         }
-        htmlString += '</ul><a href="wpaper/">wpaper/</a>';
+        htmlString += ' &nbsp; &nbsp;&lt;/ul&gt;<br/> &nbsp; &nbsp;&lt;a href="wpaper/"&gt;wpaper/&lt;/a&gt;<br/> &nbsp;&lt;body&gt;<br/>&lt;html&gt;';
         document.getElementsByTagName('body')[0].innerHTML = htmlString;
       })()
     </script>

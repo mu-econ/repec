@@ -1,0 +1,28 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Alyssa Carlson
+Author-Name-First: Alyssa
+Author-Name-Last: Carlson
+Author-Person: pca1490
+Author-Email: carlsonah@missouri.edu
+Author-Homepage: https://faculty.missouri.edu/carlsonah/
+Author-Workplace-Name: Department of Economics, University of Missouri
+Author-Workplace-Homepage: https://economics.missouri.edu/
+Author-Name: Riju Joshi
+Author-Name-First: Riju
+Author-Name-Last: Joshi
+Author-Person:
+Author-Email: riju@pdx.edu
+Author-Homepage: https://www.pdx.edu/profile/riju-joshi
+Author-Workplace-Name: Department of Economics, Portland State University
+Author-Workplace-Homepage: https://www.pdx.edu/
+Title: Sample Selection in Linear Panel Data Models with Heterogeneous Coefficients
+Abstract: In this paper, we propose a parametric estimation procedure for linear panel data models with sample selection and heterogeneous coefficients. We allow heterogeneous coefficients in both outcome model as well as in the selection model. Our two-step estimation procedure accounts for endogeneity from the selection process as well as endogeneity due to correlation between the individual unobserved heterogeneity and the observed covariates. Conditional linear projections are used to establish a tractable control function approach that builds upon the original Heckman correction to sample selection. We derive the consistency and √n-asymptotic normality of the proposed two-step procedure and provide an asymptotic variance formula that allows for arbitrary correlation over time. Monte Carlo simulations illustrate the finite sample properties of our estimator and demonstrate that our proposed estimator outperforms standard estimators that ignore the presence of parameter heterogeneity and heteroskedastic sample selection. We apply the proposed approach to estimate gender differences in high-stakes time constrained decisions using Elo ratings data from the World Chess Federation. When addressing both sources of endogeneity, we find a much larger gender skill gap and substantial differences across the gender in strategically selecting into time constrained matches.
+Creation-Date: 2021
+Revision-Date:
+Publication-Status:
+File-URL: https://drive.google.com/file/d/1XDl_R0aVGUjVymKy6NFsR9CErRpKe91W/view?usp=sharing
+File-Format: Application/pdf
+Number: 2103
+Classification-JEL: C23, C33
+Keywords: panel data, sample selection, heterogeneous coefficients, control function, conditional linear projections
+Handle: RePEc:umc:wpaper:2103

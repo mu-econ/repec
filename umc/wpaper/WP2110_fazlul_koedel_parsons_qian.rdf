@@ -1,0 +1,44 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Ishtiaque Fazlul
+Author-Name-First: Ishtiaque
+Author-Name-Last: Fazlul
+Author-Person:
+Author-Email: fazluli@missouri.edu
+Author-Homepage: https://economics.missouri.edu/people/fazlul
+Author-Workplace-Name: Department of Economics, University of Missouri
+Author-Workplace-Homepage: https://economics.missouri.edu/
+Author-Name: Cory Koedel
+Author-Name-First: Cory
+Author-Name-Last: Koedel
+Author-Person: pko283
+Author-Email: koedelc@missouri.edu
+Author-Homepage: https://economics.missouri.edu/people/koedel
+Author-Workplace-Name: Department of Economics, University of Missouri
+Author-Workplace-Homepage: https://economics.missouri.edu/
+Author-Name: Eric Parsons
+Author-Name-First: Eric
+Author-Name-Last: Parsons
+Author-Person: ppa984
+Author-Email: parsonses@missouri.edu
+Author-Homepage: https://economics.missouri.edu/people/koedel
+Author-Workplace-Name: Department of Economics, University of Missouri
+Author-Workplace-Homepage: https://economics.missouri.edu/people/parsons
+Author-Name: Cheng Qian
+Author-Name-First: Cheng
+Author-Name-Last: Qian
+Author-Person:
+Author-Email: chengqian@mail.missouri.edu
+Author-Homepage:
+Author-Workplace-Name: Department of Economics, University of Missouri
+Author-Workplace-Homepage: https://economics.missouri.edu/
+Title: Estimating test-score growth for schools and districts with a gap year in the data
+Abstract: We evaluate the feasibility of estimating test-score growth for schools and districts with a gap year in test data. Our research design uses a simulated gap year in testing when a true test gap did not occur, which facilitates comparisons of district- and school-level growth estimates with and without a gap year. We find that growth estimates based on the full data and gap-year data are generally similar, establishing that useful growth measures can be constructed with a gap year in test data. Our findings apply most directly to testing disruptions that occur in the absence of other disruptions to the school system. They also provide insights about the test stoppage induced by COVID-19, although our work is just a first step toward producing informative school- and district-level growth measures from the pandemic period.
+Creation-Date: 2021
+Revision-Date:
+Publication-Status:
+File-URL: https://drive.google.com/file/d/1so45i49509v8ahNTVi78ROHXfuLlSced/view?usp=sharing
+File-Format: Application/pdf
+Number: 2110
+Classification-JEL: I20
+Keywords:  value-added modeling, growth modeling, test gap, COVID-19 test stoppage
+Handle: RePEc:umc:wpaper:2110

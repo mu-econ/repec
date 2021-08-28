@@ -1,1 +1,29 @@
-
+Template-Type: ReDIF-Paper 1.0
+Author-Name: J. Isaac Miller
+Author-Name-First: J. Isaac
+Author-Name-Last: Miller
+Author-Email: millerjisaac@missouri.edu
+Author-Workplace-Name: Department of Economics, University of Missouri
+Author-Workplace-Homepage: https://economics.missouri.edu/
+Author-Person: pmi148
+Author-Homepage: https://economics.missouri.edu/people/miller
+Author-Name: Kyungsik Nam
+Author-Name-First: Kyungsik 
+Author-Name-Last: Nam
+Author-Email: ksnam@keei.re.kr
+Author-Workplace-Name: Energy Industry Research Group, Korea Energy Economics Institute
+Author-Workplace-Homepage: https://www.keei.re.kr/main.nsf/index_en.html
+Author-Person: 
+Author-Homepage: https://sites.google.com/view/kyungsiknam/home
+Title: Modeling Peak Electricity Demand: A Semiparametric Approach Using Weather-Driven Cross Temperature Response Functions
+Abstract: We propose a novel method to model daily peak electricity demand using temperature and additional hourly and daily weather covariates, such as humidity and wind speed. Rather than enter into the temperature response function additively, the additional covariates may flexibly impact the demand response to temperature. Such flexibility allows differential responses to the actual temperature based on the heat index and wind chill factor, for example. Most notably, we find that ignoring humidity substantially underestimates the effect of high temperatures, while ignoring the effect of cloud cover overestimates the effect of low temperatures. Time of day also matters: a demand response to the same temperature may be different at different times of day. Moreover, accounting for weather-related covariates improves the model's explanation of the peak daily demand.
+Creation-Date: 2021
+Revision-Date: 
+Publication-Status: 
+File-URL: https://drive.google.com/file/d/1ON7jFVXVNYkDavH4968xqsg87oY42xaU/view?usp=sharing
+File-Format: Application/pdf
+File-Function:                                            
+Number:  2112
+Classification-JEL: C32, C51, Q41
+Keywords: peak electricity demand, temperature response function, cross-temperature response function
+Handle: RePEc:umc:wpaper:2112

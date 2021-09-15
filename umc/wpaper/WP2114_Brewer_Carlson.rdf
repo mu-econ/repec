@@ -1,0 +1,28 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Dylan Brewer
+Author-Name-First: Dylan
+Author-Name-Last: Brewer
+Author-Person:
+Author-Email: brewer@gatech.edu
+Author-Homepage: https://econ.gatech.edu/people/person/dylan-brewer
+Author-Workplace-Name: School of Economics, Georgia Institute of Technology
+Author-Workplace-Homepage: https://www.gatech.edu/
+Author-Name: Alyssa Carlson
+Author-Name-First: Alyssa
+Author-Name-Last: Carlson
+Author-Person: pca1490
+Author-Email: carlsonah@missouri.edu
+Author-Homepage: https://carlsonah.mufaculty.umsystem.edu/
+Author-Workplace-Name: Department of Economics, University of Missouri
+Author-Workplace-Homepage: https://economics.missouri.edu/
+Title: Addressing Sample Selection Bias for Machine Learning Methods
+Abstract: We study approaches for adjusting machine learning methods when the training sample differs from the prediction sample on unobserved dimensions. The machine learning literature predominately assumes selection only on observed dimensions. Common suggestions are to re-weight or control for variables that influence selection as solutions to selection on observables. Simulation results show that selection on unobservables increases mean squared prediction error using common machine-learning algorithms. Common machine learning practices such as re-weighting or controlling for variables that influence selection into the training or testing sample often worsens sample selection bias. We suggest two control-function approaches that remove the effects of selection bias before training and find that they reduce mean-squared prediction error in simulations with a high degree of selection. We apply these approaches to predicting the vote share of the incumbent in gubernatorial elections using previously observed re-election bids. We find that ignoring selection on unobservables leads to substantially higher predicted vote shares for the incumbent than when the control function approach is used.
+Creation-Date: 2021-09
+Revision-Date:
+Publication-Status:
+File-URL: https://drive.google.com/file/d/1N-3QpN8hsmLne0PAH2oA7hebqAvLEf6b/view?usp=sharingview?usp=sharing
+File-Format: Application/pdf
+Number: 2114
+Classification-JEL: C13, C31, C55, D72
+Keywords: sample selection, machine learning, control function, inverse probability weighting
+Handle: RePEc:umc:wpaper:2114

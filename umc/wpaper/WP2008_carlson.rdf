@@ -7,7 +7,7 @@ Author-Workplace-Name: Department of Economics, University of Missouri-Columbia
 Author-Person: pca1490
 Author-Homepage: https://economics.missouri.edu/people/carlson
 Title: Relaxing Conditional Independence in an Endogenous Binary Response Model
-Abstract: For binary response models, the literature primarily addresses endogeneity by a control function approach assuming conditional independence (CF-CI). However, as the literature also notes, CF-CI implies conditions like homoskedasticity (of the latent error with respect to the instruments) that fail in many empirical settings. I propose an alternative approach that allows for heteroskedasticity, achieving identification with a conditional mean restriction. These identification results apply to a latent Gaussian error term with flexibly parametrized heteroskedasticity. I propose a two-step conditional maximum likelihood estimator and derive its asymptotic distribution. In simulations, the new estimator outperforms others when CF-CI fails and is fairly robust to distributional misspecification. An empirical illustration studies married women's labor force participation.
+Abstract: WP 20-08 has been revised and superseded by WP 21-13
 Length: 56 pages
 Creation-Date:  2020-09
 Revision-Date: 

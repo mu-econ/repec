@@ -1,0 +1,20 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: David M. Kaplan
+Author-Name-First: David
+Author-Name-Last: Kaplan
+Author-Person: pka649
+Author-Email: kaplandm@missouri.edu
+Author-Homepage: https://economics.missouri.edu/people/kaplan
+Author-Workplace-Name: Department of Economics, University of Missouri
+Author-Workplace-Homepage: https://economics.missouri.edu/
+Title: Inference on Consensus Ranking of Distributions
+Abstract: Instead of testing for unanimous agreement, I propose learning how broad of a consensus favors one distribution over another (of earnings, productivity, asset returns, test scores, etc.). Specifically, given a sample from each of two distributions, I propose statistical inference methods to learn about the set of utility functions for which the first distribution has higher expected utility than the second distribution. With high probability, an "inner" confidence set is contained within this true set, while an "outer" confidence set contains the true set. Such confidence sets can be formed by inverting a proposed multiple testing procedure that controls the familywise error rate. Theoretical justification comes from empirical process results, given that very large classes of utility functions are generally Donsker (subject to finite moments). The theory additionally justifies a uniform (over utility functions) confidence band of expected utility differences, as well as tests with a utility-based "restricted stochastic dominance" as either the null or alternative hypothesis. Simulated and empirical examples illustrate the methodology. 
+Creation-Date: 2022
+Revision-Date:
+Publication-Status:
+File-URL: https://drive.google.com/file/d/1jp81DNHpmY4vO5APYdMH0T2s0B4tkOMj/view?usp=sharing
+File-Format: Application/pdf
+Number: 2205
+Classification-JEL: C29
+Keywords: confidence set, Donsker, expected utility, familywise error rate, multiple testing, stochastic dominance
+Handle: RePEc:umc:wpaper:2205

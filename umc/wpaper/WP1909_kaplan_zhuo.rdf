@@ -11,7 +11,7 @@ Author-Name-First: Longhao
 Author-Name-Last: Zhuo
 Author-Workplace-Name: Department of Economics, University of Missouri
 Title: Comparing latent inequality with ordinal data
-Abstract:  Using health as an example, we consider comparing two latent distributions when only ordinal data are available.  Distinct from the literature, we assume a continuous latent distribution but not a parametric model.  Primarily, we contribute (partial) identification results: given two known ordinal distributions, what can be learned about the relationship between the two corresponding latent distributions?  Secondarily, we discuss Bayesian and frequentist inference on the relevant ordinal relationships, which are combinations of moment inequalities.  Simulations and empirical examples illustrate our contributions.
+Abstract: WP 1909 has now been replaced by WP 2206.
 Length: 40 pages
 Creation-Date:  2019
 Revision-Date: 

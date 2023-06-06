@@ -1,0 +1,26 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name:  David M. Kaplan
+Author-Name-First: David
+Author-Name-Last: Kaplan
+Author-Email: kaplandm@missouri.edu
+Author-Homepage: https://economics.missouri.edu/people/kaplan
+Author-Workplace-Name: University of Missouri
+Author-Person: pka649
+Author-Name:  Xin Liu
+Author-Name-First: Xin
+Author-Name-Last: Liu
+Author-Email: xin.liu1@wsu.edu
+Author-Homepage: https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fxinliu16.github.io%2F&data=05%7C01%7CGuC%40missouri.edu%7Cbf3b831407fa447b6dcb08db66071dbb%7Ce3fefdbef7e9401ba51a355e01b05a89%7C0%7C0%7C638215953636729187%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=4tUB6ekvRKoAZIa4UbZuR8683W9Qs7SOX5IRC0RWzn8%3D&reserved=0
+Author-Workplace-Name: Washington State University
+Author-Person: pli1438
+Title:  Confidence Intervals for Intentionally Biased Estimators
+Abstract: We propose and study two confidence intervals (CIs) centered at an estimator that is intentionally biased in order to reduce mean squared error. The first CI simply uses an unbiased estimator’s standard error. It is not obvious that this CI should work well; indeed, for confidence levels below 68.3%, the coverage probability can be near zero, and the CI using the biased estimator’s standard error is also known to suffer from undercoverage. However, for confidence levels 91.7% and higher, even if the unbiased and biased estimators have identical mean squared error (which yields a bound on coverage probability), our CI is better than the benchmark CI centered at the unbiased estimator: they are the same length, but our CI has higher coverage probability (lower coverage error rate), regardless of the magnitude of bias. That is, whereas generally there is a tradeoff that requires increasing CI length in order to reduce the coverage error rate, in this case we can reduce the error rate for free (without increasing length) simply by recentering the CI at the biased estimator instead of the unbiased estimator. If rounding to the nearest hundredth of a percent, then even at the 90% confidence level our CI's worst-case coverage probability is 90.00% and can be significantly higher depending on the magnitude of bias. In addition to its favorable statistical properties, our proposed CI applies broadly and is simple to compute, making it attractive in practice. Building on these results, our second CI trades some of the first CI's "excess" coverage probability for shorter length. It also dominates the benchmark CI (centered at unbiased estimator) for conventional confidence levels, with higher coverage probability and shorter length, so we recommend this CI in practice.
+Creation-Date: 2023-06
+Revision-Date:
+Publication-Status:
+File-URL: https://drive.google.com/file/d/13l6_IROJrZim5NLRkr2-hwLQDAah6rir/view?usp=sharing
+File-Format: Application/pdf
+Number: 2308
+Classification-JEL: C13
+Keywords: averaging estimators, bias–variance tradeoff, coverage probability, mean squared error, smoothing
+Handle: RePEc:umc:wpaper:2308

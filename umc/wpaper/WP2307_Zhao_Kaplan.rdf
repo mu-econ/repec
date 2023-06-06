@@ -1,0 +1,26 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name:  Wei Zhao
+Author-Name-First: Wei
+Author-Name-Last: Zhao
+Author-Email: weizhao@mail.missouri.edu
+Author-Homepage: https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fweizhaowz.com%2F&data=05%7C01%7CGuC%40missouri.edu%7Cbf3b831407fa447b6dcb08db66071dbb%7Ce3fefdbef7e9401ba51a355e01b05a89%7C0%7C0%7C638215953636729187%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=vmP5I9D04qdicsss8VeTuNmqieMjNouXRHfZjGlhqxg%3D&reserved=0
+Author-Workplace-Name: University of Missouri
+Author-Person: pzh1114
+Author-Name:  David M. Kaplan
+Author-Name-First: David
+Author-Name-Last: Kaplan
+Author-Email: kaplandm@missouri.edu
+Author-Homepage: https://economics.missouri.edu/people/kaplan
+Author-Workplace-Name: University of Missouri
+Author-Person: pka649
+Title:  Conditions for Extrapolating Differences in Consumption to Differences in Welfare
+Abstract: We characterize conditions under which a better consumption distribution implies higher utility.  Specifically, when comparing two populations, we consider when one population's first-order stochastic dominance in consumption implies higher expected utility for each subpopulation of individuals who have the same utility function, compared to the corresponding subpopulation of the lower-consumption population.  Although this implication seems natural and indeed holds in the familiar case where everyone has the same utility function (risk preferences), we first provide an example in which the opposite occurs: despite worse consumption, expected utility is higher in every subpopulation, essentially by trading consumption risk between subpopulations in ways that are Pareto-improving.  We then show that higher expected utility results from higher consumption in different settings.  First, we assume a fixed dependence structure (copula) between consumption and preferences, with independence as a special case.  Second, viewing the two distributions as treated and untreated potential outcomes, we use the rank invariance assumption from the treatment effects literature, without any explicit restrictions on the consumption--preferences dependence structure.  Given that empirical studies only learn about consumption differences, our results help make explicit when such differences can be interpreted as individuals being better off.
+Creation-Date: 2023-06
+Revision-Date:
+Publication-Status:
+File-URL: https://drive.google.com/file/d/1x99Ln2d4fFOcAmkvIC-SbAHOSOsN7ke0/view?usp=sharing
+File-Format: Application/pdf
+Number: 2307
+Classification-JEL: C21, D39, D61
+Keywords: copula, first-order stochastic dominance, rank invariance, risk preferences
+Handle: RePEc:umc:wpaper:2307

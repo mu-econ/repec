@@ -14,7 +14,7 @@ Author-Email: wbrock@ssc.wisc.edu
 Author-Workplace-Name:  Department of Economics, University of Wisconsin-Madison
 Author-Workplace-Homepage: https://www.wisc.edu/
 Author-Person: pbr142
-Author-Homepage: https://www.ssc.wisc.edu/~wbrock/
+Author-Homepage: https://users.ssc.wisc.edu/~wbrock/
 Title: Beyond RCP8.5: Marginal Mitigation Using Quasi-Representative Concentration Pathways
 Abstract: Assessments of decreases in economic damages from climate change mitigation typically rely on climate output from computationally expensive pre-computed runs of general circulation models under a handful of scenarios with discretely varying targets, such as the four representative concentration pathways for CO2 and other anthropogenically emitted gases. Although such analyses are valuable in informing scientists and policymakers about massive multilateral mitigation goals, we add to the literature by considering potential outcomes from more modest policy changes that may not be represented by any well-known concentration pathway. Specifically, we construct computationally efficient Quasi-representative Concentration Pathways (QCPs) to leverage concentration pathways of existing peer-reviewed scenarios. Computational efficiency allows for bootstrapping to assess uncertainty. We illustrate our methodology by considering the impact on the relative risk of mortality from heat stress in London from the United Kingdom's net zero emissions goal. More than half of our interval estimate for the business-as-usual scenario covers an annual risk at least that of a COVID-19-like mortality event by 2100. Success of the UK's policy alone would do little to mitigate the risk.
 Creation-Date: 2021

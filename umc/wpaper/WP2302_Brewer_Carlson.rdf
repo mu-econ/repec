@@ -16,7 +16,7 @@ Author-Homepage: https://carlsonah.mufaculty.umsystem.edu/
 Author-Workplace-Name: Department of Economics, University of Missouri
 Author-Workplace-Homepage: https://economics.missouri.edu/
 Title: Addressing Sample Selection Bias for Machine Learning Methods                                                
-Abstract: We study approaches for adjusting machine learning methods when the training sample differs from the prediction sample on unobserved dimensions. The machine learning literature predominately assumes selection only on observed dimensions. Common approaches are to weight or include variables that influence selection as solutions to selection on observables. Simulation results show that selection on unobservables increases mean squared prediction error using popular machine-learning algorithms. Common machine learning practices such as weighting or including variables that influence selection into the training or testing sample often worsens sample selection bias. We propose two control-function approaches that remove the effects of selection bias before training and find that they reduce mean-squared prediction error in simulations. We apply these approaches to predicting the vote share of the incumbent in gubernatorial elections using previously observed re-election bids. We find that ignoring selection on unobservables leads to substantially higher predicted vote shares for the incumbent than when the control function approach is used.
+Abstract: WP 2302 has been revised and superseded by WP 2310
 Creation-Date: 2023-03
 Revision-Date:
 Publication-Status:

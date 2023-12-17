@@ -14,7 +14,7 @@ Author-Homepage: https://qianjoewu.github.io/
 Author-Workplace-Name: Southwestern University of Finance and Economics
 Author-Person: 
 Title:  Multiple Testing of Ordinal Stochastic Monotonicity
-Abstract: We develop methodology for testing stochastic monotonicity when the outcome variable is ordinal.  Rather than testing a single null hypothesis, we use multiple testing to evaluate where the ordinal outcome is stochastically increasing in the covariate.  By inverting our multiple testing procedure that controls the familywise error rate, we construct ``inner'' and ``outer'' confidence sets for the true set of points consistent with stochastic increasingness.  Simulations show reasonable finite-sample properties.  Empirically, we apply our methodology to the relationship between mental health and education.  Practically, we provide code implementing our multiple testing procedure and replicating our empirical results.
+Abstract: We develop methodology for testing stochastic monotonicity when the outcome variable is ordinal.  Rather than testing a single null hypothesis, we use multiple testing to evaluate where the ordinal outcome is stochastically increasing in the covariate.  By inverting our multiple testing procedure that controls the familywise error rate, we construct "inner" and "outer" confidence sets for the true set of points consistent with stochastic increasingness.  Simulations show reasonable finite-sample properties.  Empirically, we apply our methodology to the relationship between mental health and education.  Practically, we provide code implementing our multiple testing procedure and replicating our empirical results.
 Creation-Date: 2023-12
 Revision-Date:
 Publication-Status:

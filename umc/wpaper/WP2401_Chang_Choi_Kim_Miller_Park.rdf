@@ -1,0 +1,53 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Yoosoon Chang
+Author-Name-First: Yoosoon
+Author-Name-Last: Chang
+Author-Email: yoosoon@iu.edu
+Author-Workplace-Name:  Department of Economics, Indiana University
+Author-Workplace-Homepage: https://economics.indiana.edu/index.html
+Author-Person: 	pch209
+Author-Homepage: 
+Author-Name: Yongok Choi
+Author-Name-First: Yongok
+Author-Name-Last: Choi
+Author-Email: 
+Author-Workplace-Name: School of Economics, Chung-Ang University
+Author-Workplace-Homepage: 
+Author-Person: pch1839
+Author-Homepage:
+Author-Name: Chang Sik Kim
+Author-Name-First: Chang Sik
+Author-Name-Last: Kim
+Author-Email: skimcs@skku.edu
+Author-Workplace-Name: Department of Economics, Sungkyunkwan University
+Author-Workplace-Homepage: 
+Author-Person: pki366
+Author-Homepage:
+Author-Name: J. Isaac Miller
+Author-Name-First: J. Isaac
+Author-Name-Last: Miller
+Author-Email: millerjisaac@missouri.edu
+Author-Workplace-Name: Department of Economics, University of Missouri
+Author-Workplace-Homepage: https://economics.missouri.edu/
+Author-Person: pmi148
+Author-Homepage: https://economics.missouri.edu
+Author-Name: Joon Y. Park
+Author-Name-First: Joon
+Author-Name-Last: Park
+Author-Email: joon@iu.edu
+Author-Workplace-Name: Department of Economics, Indiana University
+Author-Workplace-Homepage: https://economics.indiana.edu/index.html
+Author-Person: ppa681
+Author-Homepage:
+Title: Common Trends and Country Specific Heterogeneities in Long-Run World Energy Consumption
+Abstract: We employ a semiparametric functional coefficient panel approach to allow an economic relationship of interest to have both country-specific heterogeneity and a common component that may be nonlinear in the covariate and may vary over time. Surfaces of the common component of coefficients and partial derivatives (elasticities) are estimated and then decomposed by functional principal components, and we introduce a bootstrap-based procedure for inference on the loadings of the functional principal components. Applying this approach to national energy-GDP elasticities, we find that elasticities are driven by common components that are distinct across two groups of countries yet have leading functional principal components that share similarities. The groups roughly correspond to OECD and non-OECD countries, but we utilize a novel methodology to regroup countries based on common energy consumption patterns to minimize root mean squared error within groups. The common component of the group containing more developed countries has an additional functional principal component that decreases the elasticity of the wealthiest countries in recent decades. 
+Creation-Date: 2024-01
+Revision-Date: 
+Publication-Status: 
+File-URL: https://drive.google.com/file/d/1dAgmwmPmH7AnuKsU8uEYGKdDdduoaX6L/view?usp=sharing
+File-Format: Application/pdf
+File-Function:  
+Number:  2401
+Classification-JEL:C14, C23, C51, Q43
+Keywords:energy consumption, energy-GDP elasticity, partially linear semiparametric panel model, functional coefficient panel model
+Handle: RePEc:umc:wpaper:2401

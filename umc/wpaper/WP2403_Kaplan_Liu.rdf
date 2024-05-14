@@ -1,0 +1,26 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name:  David M. Kaplan
+Author-Name-First: David
+Author-Name-Last: Kaplan
+Author-Email: kaplandm@missouri.edu
+Author-Homepage: https://economics.missouri.edu/people/kaplan
+Author-Workplace-Name: University of Missouri
+Author-Person: pka649
+Author-Name:  Xin Liu
+Author-Name-First: Xin
+Author-Name-Last: Liu
+Author-Email: xin.liu1@wsu.edu
+Author-Homepage: https://xinliu16.github.io/
+Author-Workplace-Name: Washington State University
+Author-Person: pli1438
+Title:  Finite-Sample Inference on Auction Bid Distributions Using Transaction Prices
+Abstract: We provide finite-sample, nonparametric, uniform confidence bands for the bid distribution's quantile function in first-price, second-price, descending, and ascending auctions with symmetric independent private values, when only the transaction price (highest or second-highest bid) is observed.  Even with a varying number of bidders, finite-sample coverage is exact.  With a fixed number of bidders, we also derive uniform confidence bands robust to auction-level unobserved heterogeneity.  This includes new bounds on the bid quantile function in terms of the transaction price quantile function.  We also provide results on computation, median-unbiased quantile estimation, and pointwise quantile inference.  Empirically, our new methodology is applied to timber auction data to examine heterogeneity across appraisal value and number of bidders, which helps assess the combination of symmetric independent private values and exogenous participation.
+Creation-Date: 2024-05
+Revision-Date:
+Publication-Status:
+File-URL: https://drive.google.com/file/d/1IQB0XBIYgEG6qmG88kQdvswc6HwJEtIk/view?usp=sharing
+File-Format: Application/pdf
+Number: 2403
+Classification-JEL: C57
+Keywords: first-price; order statistics; second-price; uniform confidence band; unobserved heterogeneity
+Handle: RePEc:umc:wpaper:2403

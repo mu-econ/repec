@@ -6,19 +6,16 @@ Author-Email: kaplandm@missouri.edu
 Author-Workplace-Name: Department of Economics, University of Missouri
 Author-Homepage: https://economics.missouri.edu/people/kaplan
 Author-Person: pka649
-Author-Name: Longhao Zhuo
-Author-Name-First: Longhao
-Author-Name-Last:  Zhuo
-Title: Bayesian and frequentist inequality tests 
-Abstract:  Working paper WP 15-16 has been replaced by WP 19-10. 
-Length: 32 pages 
+Title: Bayesian and frequentist tests of sign equality and other nonlinear inequalities
+Abstract:  Testing whether two parameters have the same sign is a nonstandard problem due to the non-convex shape of the parameter subspace satisfying the composite null hypothesis, which is a nonlinear inequality constraint. We describe a simple example where the ordering of likelihood ratio (LR), Wald, and Bayesian sign equality tests reverses the “usual” ordering: the Wald rejection region is a subset of LR’s, as is the Bayesian rejection region (either asymptotically or with an uninformative prior). Under general conditions, we show that non-convexity of the null hypothesis subspace is a necessary but not sufficient condition for this asymptotic frequentist/Bayesian ordering. Since linear inequalities only generate convex regions, a corollary is that frequentist tests are more conservative than Bayesian tests in that setting. We also examine a nearly similar-on-the-boundary, unbiased test of sign equality. Rather than claim moral superiority of one statistical framework or test, we wish to clarify the regrettably ineluctable tradeoffs.
+Length: 31 pages 
 Creation-Date: 2015-07-14  
-Revision-Date: 2018-02
+Revision-Date: 
 Publication-Status: 
-File-URL: https://drive.google.com/file/d/18K67TvcSfX6h3LfEjM3U1jlU0l-ytZYa/view?usp=sharing
+File-URL: https://drive.google.com/file/d/1g6Klqf4R7dxQmL5t5DuoV-dDZSfp6rGI/view
 File-Format: Application/pdf
 File-Function:  
 Number:  1516
 Classification-JEL: C11, C12
-Keywords: Bernstein-von Mises theorem, convexity, first-order stochastic dominance, limit experiment, nonstandard inference
+Keywords: convexity, likelihood ratio, limit experiment, nonstandard inference, unbiased test, Wald
 Handle:RePEc:umc:wpaper:1516

@@ -7,7 +7,7 @@ Author-Workplace-Name: Department of Economics, University of Missouri-Columbia
 Author-Person: pca1490
 Author-Homepage: https://economics.missouri.edu/people/carlson
 Title: Identification of a triangular random coefficient model using a correction function
-Abstract: Previously, identification of triangular random coefficient models required a restriction on the dimension of the first stage heterogeneity or independence assumptions across the different sources of the heterogeneity. This note proposes a new identification strategy that does not rely on either of these restrictions but rather assumes conditional means are conditional linear projections in order to construct "correction functions" to address endogeneity and gain identification of the average partial effect. This identification strategy allows for both continuous and discrete instruments. Finally, a simple simulation illustrates that the proposed identification strategy is valid in settings where no other existing methods can identify average partial effects.
+Abstract: WP 22-07 has been revised and superseded by WP 24-05
 Length: 19 pages
 Creation-Date:  2022-09
 Revision-Date: 

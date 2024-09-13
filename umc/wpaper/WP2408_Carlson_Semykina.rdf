@@ -1,0 +1,28 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Alyssa Carlson
+Author-Name-First: Alyssa
+Author-Name-Last: Carlson
+Author-Person: pca1490
+Author-Email: carlsonah@missouri.edu
+Author-Homepage: https://carlsonah.mufaculty.umsystem.edu/
+Author-Workplace-Name: Department of Economics, University of Missouri
+Author-Workplace-Homepage: https://economics.missouri.edu/
+Author-Name: Anastasia Semykina
+Author-Name-First: Anastasia
+Author-Name-Last: Semykina
+Author-Person: pse122
+Author-Email: anastasia.semykina@rmit.edu.au
+Author-Homepage: 
+Author-Workplace-Name: Royal Melbourne Institute of Technology
+Author-Workplace-Homepage: https://www.rmit.edu.au/contact/staff-contacts/academic-staff/s/semykina---anastasia
+Title: Addressing Attrition in Nonlinear Dynamic Panel Data Models with an Application to Health                                            
+Abstract: We present a general framework for nonlinear dynamic panel data models subject to missing outcomes due to endogenous attrition. We consider two cases of attrition. First, ignorable attrition where the distribution of the outcome does not depend on missingness conditional on the unobserved heterogeneity. Second, non-ignorable attrition where the conditional distribution of the outcome does depend on attrition. In either case, a major challenge posed by the dynamic specification is the inherent correlation between the lagged dependent variable and unobserved individual heterogeneity. Our key assumption is that the distribution of the unobserved heterogeneity does not depend on attrition conditional on observed covariates and initial condition. The resulting estimator is a joint MLE that accommodates a dynamic specification, correlated unobserved heterogeneity, and endogenous attrition. We discuss the derivation and estimation of the average partial effects within this framework and provide examples for the binary response, ordinal response, and corner solution cases. Finite sample properties are studied using Monte Carlo simulations. As an empirical application, the proposed method is applied to estimating a dynamic health model for older women.
+Creation-Date: 2024-09
+Revision-Date:
+Publication-Status:
+File-URL: https://drive.google.com/file/d/1AyyAhpHdTsYjfgJ0wD--Qv2lxNScGxlO/view?usp=sharing
+File-Format: Application/pdf
+Number: 2408
+Classification-JEL: C23, C24, C25
+Keywords: attrition, dynamic, nonlinear, panel data, correlated random effects
+Handle: RePEc:umc:wpaper:2408

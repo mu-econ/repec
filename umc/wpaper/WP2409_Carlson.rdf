@@ -1,0 +1,21 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Alyssa Carlson
+Author-Name-First: Alyssa
+Author-Name-Last: Carlson
+Author-Email: carlsonah@missouri.edu  
+Author-Workplace-Name: Department of Economics, University of Missouri-Columbia
+Author-Person: pca1490
+Author-Homepage: https://economics.missouri.edu/people/carlson
+Title: Identification of a triangular random coefficient model using a correction function
+Abstract: Previously, identification of triangular random coefficient models required a restriction on the dimension of the first stage heterogeneity or independence assumptions across the different sources of the heterogeneity. This note proposes a new identification strategy that does not rely on either of these restrictions but rather assumes conditional means have a conditional linear projection representation in order to construct “correction functions” to address endogeneity and gain identification of the average partial effect. This identification strategy allows for both continuous and discrete instruments. Finally, the proposed identification method is illustrated in estimating the returns to education.
+Length: 40 pages
+Creation-Date:  2024-09
+Revision-Date: 
+Publication-Status: 
+File-URL: https://drive.google.com/file/d/1x6cWfsfpJR9adne3iqEwLWhQjLqZjD6D/view?usp=sharing
+File-Format: Application/pdf
+File-Function:  
+Number:  2409
+Classification-JEL:C3
+Keywords: Endogeneity, Control Function, Random Coefficient, Conditional Linear Projection
+Handle: RePEc:umc:wpaper:2409

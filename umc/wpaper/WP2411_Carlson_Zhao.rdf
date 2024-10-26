@@ -1,0 +1,28 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Alyssa Carlson
+Author-Name-First: Alyssa
+Author-Name-Last: Carlson
+Author-Person: pca1490
+Author-Email: carlsonah@missouri.edu
+Author-Homepage: https://carlsonah.mufaculty.umsystem.edu/
+Author-Workplace-Name: Department of Economics, University of Missouri
+Author-Workplace-Homepage: https://economics.missouri.edu/
+Author-Name: Wei Zhao
+Author-Name-First: Wei
+Author-Name-Last: Zhao
+Author-Person:
+Author-Email: Wei.Zhao@truist.com
+Author-Homepage: 
+Author-Workplace-Name: Truist Bank
+Author-Workplace-Homepage: 
+Title: Heckman sample selection estimators under heteroskedasticity
+Abstract: This paper provides a practical guide for Stata users on the consequences of heteroskedasticity in sample selection models. We review the properties of two Heckman sample selection estimators, full information maximum likelihood (FIML) and limited information maximum likelihood (LIML), under heteroskedasticity. In this case, FIML is inconsistent while LIML can be consistent in certain settings. For the LIML estimator under heteroskedasticity, we show standard Stata commands are unable to produce correct standard errors and instead suggest the user-written gtsheckman (Carlson 2022, forthcoming). Since heteroskedasticity affects these two estimators’ performance, this paper also offers guidance on how to test for heteroskedasticity and the conditions needed for the LIML estimator to be consistent. The Monte Carlo simulations illustrate that the suggested testing procedures perform well in terms of appropriate size and power.
+Creation-Date: 2024-11
+Revision-Date:
+Publication-Status:
+File-URL: https://drive.google.com/file/d/129KlyvUmYh3sXto6MRaJ3i7zHgm7phk6/view?usp=sharing
+File-Format: Application/pdf
+Number: 2411
+Classification-JEL: C13, C24
+Keywords: sample selection, heteroskedasticty, Bruesh–Pagan test, Hausman test
+Handle: RePEc:umc:wpaper:2411

@@ -12,7 +12,7 @@ Author-Name-Last: Wu
 Author-Email: wuqj@swufe.edu.cn
 Author-Homepage: https://qianjoewu.github.io/
 Author-Workplace-Name: Southwestern University of Finance and Economics
-Author-Person: 
+Author-Person: pwu230
 Title:  Ordinal Decomposition
 Abstract:The famous Blinder-Oaxaca decomposition estimates the statistically "explained" proportion of a between-group difference in means, but ordinal variables have no mean.  A common approach assigns cardinal values 1,2,3,... to the ordinal categories and runs the conventional OLS-based decomposition.  Surprisingly, we show such results are numerically identical to a decomposition of the survival function when estimating the counterfactual using OLS-based distribution regression, even if the cardinalization is wrong.  Still, reporting the counterfactual helps transparency and wide-sense replication, and to mitigate functional form misspecification, we describe and implement a nonparametric estimator.  Empirically, we decompose U.S. rural-urban differences in mental health.
 Creation-Date: 2024-05

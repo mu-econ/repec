@@ -1,0 +1,27 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name:  Xin Liu
+Author-Name-First: Xin
+Author-Name-Last: Liu
+Author-Email: xin.liu1@wsu.edu
+Author-Homepage: https://xinliu16.github.io/
+Author-Workplace-Name: Washington State University
+Author-Person: pli1438
+Author-Name:  David M. Kaplan
+Author-Name-First: David
+Author-Name-Last: Kaplan
+Author-Email: kaplandm@missouri.edu
+Author-Homepage: https://kaplandm.github.io/
+Author-Workplace-Name: University of Missouri
+Author-Person: pka649
+
+Title: Quantile Regression with Log(0) Outcomes
+Abstract: We consider quantile regression when the outcome is the log of a non-negative variable that can equal zero. Unlike the analogous mean regression, this is well-defined if the quantile level is not low enough to include the extensive margin, but "log-like" transformations are used in practice due to computational obstacles. We provide computational solutions and diagnostics, as well as theoretical results including identification, coefficient interpretation under proper specification, characterization of the misspecified log-linear model's estimand, and sensitivity of this estimand to changes in the conditional distribution. To illustrate these results, we revisit an empirical study of armed-group and civilian violence.
+Creation-Date: 2025-09
+Revision-Date:
+Publication-Status:
+File-URL: https://drive.google.com/file/d/1Z50eOGmVIhsPlhemUrU8P0vFOPkeL_dV/view?usp=sharing
+File-Format: Application/pdf
+Number: 2509
+Classification-JEL: C21, C23
+Keywords: equivariance, misspecification, multiplicative error, percent effect, robustness
+Handle: RePEc:umc:wpaper:2509

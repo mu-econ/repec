@@ -1,0 +1,26 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name:  Qian Wu
+Author-Name-First: Qian
+Author-Name-Last: Wu
+Author-Email: wuqj@swufe.edu.cn
+Author-Homepage: https://qianjoewu.github.io/
+Author-Person: pwu230
+Author-Name:  David M. Kaplan
+Author-Name-First: David
+Author-Name-Last: Kaplan
+Author-Email: kaplandm@missouri.edu
+Author-Homepage: https://kaplandm.github.io/
+Author-Workplace-Name: University of Missouri
+Author-Person: pka649
+
+Title: Multiple Testing of Stochastic Monotonicity
+Abstract: We develop multiple testing methodology to assess the evidence that an outcome variable’s distribution (not just mean) is "stochastically increasing" in a covariate. Such a relationship holds globally if at each possible outcome value, the conditional CDF evaluated at that value is decreasing in the covariate. Rather than test that single global null hypothesis, we use multiple testing to separately evaluate each constituent conditional CDF inequality. Inverting our multiple testing procedure that controls familywise error rate, we construct "inner" and "outer" confidence sets for the true set of inequalities consistent with stochastic increasingness. Simulations show reasonable finite-sample properties. Empirically, we apply our methodology to study the education gradient in health. Practically, we provide code implementing our methodology and replicating our results.
+Creation-Date: 2025-09
+Revision-Date:
+Publication-Status:
+File-URL: https://drive.google.com/file/d/1IOdw7hg0hm7KcyPtzy7OqI5aWYhRvTrt/view?usp=sharing
+File-Format: Application/pdf
+Number: 2511
+Classification-JEL: C25, I10
+Keywords: confidence set, familywise error rate, health, life satisfaction
+Handle: RePEc:umc:wpaper:2511

@@ -11,8 +11,6 @@ Author-Name: Wei Zhao
 Author-Name-First: Wei
 Author-Name-Last: Zhao
 Author-Person: pzh1114
-Author-Email: weizhao@mail.missouri.edu 
-Author-Homepage: https://weizhaowz.com/
 Author-Workplace-Name: Department of Economics, University of Missouri
 Title: Comparing Latent Inequality with Ordinal Data
 Abstract: We propose new ways to compare two latent distributions when only ordinal data are available and without imposing parametric assumptions on the underlying continuous distributions.  First, we contribute identification results.  We show how certain ordinal conditions provide evidence of between-group inequality, quantified by particular quantiles being higher in one latent distribution than in the other.  We also show how other ordinal conditions provide evidence of higher within-group inequality in one distribution than in the other, quantified by particular interquantile ranges being wider in one latent distribution than in the other.  Second, we propose an "inner" confidence set for the quantiles that are higher for the first latent distribution.  We also describe frequentist and Bayesian inference on features of the ordinal distributions relevant to our identification results.  Our contributions are illustrated by empirical examples with mental health and general health.

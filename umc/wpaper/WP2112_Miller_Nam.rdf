@@ -12,9 +12,9 @@ Author-Name-First: Kyungsik
 Author-Name-Last: Nam
 Author-Email: ksnam@keei.re.kr
 Author-Workplace-Name: Energy Industry Research Group, Korea Energy Economics Institute
-Author-Workplace-Homepage: https://www.keei.re.kr/main.nsf/index_en.html
+Author-Workplace-Homepage: https://www.keei.re.kr/eng/
 Author-Person: 
-Author-Homepage: https://sites.google.com/view/kyungsiknam/%ED%99%88
+Author-Homepage: https://sites.google.com/view/kyungsiknam/
 Title: Modeling Peak Electricity Demand: A Semiparametric Approach Using Weather-Driven Cross Temperature Response Functions
 Abstract: We propose a novel method to model daily peak electricity demand using temperature and additional hourly and daily weather covariates, such as humidity and wind speed. Rather than enter into the temperature response function additively, the additional covariates may flexibly impact the demand response to temperature. Such flexibility allows differential responses to the actual temperature based on the heat index and wind chill factor, for example. Most notably, we find that ignoring humidity substantially underestimates the effect of high temperatures, while ignoring the effect of cloud cover overestimates the effect of low temperatures. Time of day also matters: a demand response to the same temperature may be different at different times of day. Moreover, accounting for weather-related covariates improves the model's explanation of the peak daily demand.
 Creation-Date: 2021

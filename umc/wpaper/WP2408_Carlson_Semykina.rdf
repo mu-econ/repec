@@ -12,9 +12,9 @@ Author-Name-First: Anastasia
 Author-Name-Last: Semykina
 Author-Person: pse122
 Author-Email: anastasia.semykina@rmit.edu.au
-Author-Homepage: 
+Author-Homepage: https://www.rmit.edu.au/profiles/s/anastasia-semykina
 Author-Workplace-Name: Royal Melbourne Institute of Technology
-Author-Workplace-Homepage: https://www.rmit.edu.au/contact/staff-contacts/academic-staff/s/semykina---anastasia
+Author-Workplace-Homepage: https://www.rmit.edu.au/about/schools-colleges/economics-finance-and-marketing
 Title: Addressing Attrition in Nonlinear Dynamic Panel Data Models with an Application to Health                                            
 Abstract: We present a general framework for nonlinear dynamic panel data models subject to missing outcomes due to endogenous attrition. We consider two cases of attrition. First, ignorable attrition where the distribution of the outcome does not depend on missingness conditional on the unobserved heterogeneity. Second, non-ignorable attrition where the conditional distribution of the outcome does depend on attrition. In either case, a major challenge posed by the dynamic specification is the inherent correlation between the lagged dependent variable and unobserved individual heterogeneity. Our key assumption is that the distribution of the unobserved heterogeneity does not depend on attrition conditional on observed covariates and initial condition. The resulting estimator is a joint MLE that accommodates a dynamic specification, correlated unobserved heterogeneity, and endogenous attrition. We discuss the derivation and estimation of the average partial effects within this framework and provide examples for the binary response, ordinal response, and corner solution cases. Finite sample properties are studied using Monte Carlo simulations. As an empirical application, the proposed method is applied to estimating a dynamic health model for older women.
 Creation-Date: 2024-09

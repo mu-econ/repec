@@ -1,11 +1,4 @@
 Template-Type: ReDIF-Paper 1.0
-Author-Name:  Xin Liu
-Author-Name-First: Xin
-Author-Name-Last: Liu
-Author-Email: xin.liu1@wsu.edu
-Author-Homepage: https://xinliu16.github.io/
-Author-Workplace-Name: Washington State University
-Author-Person: pli1438
 Author-Name:  David M. Kaplan
 Author-Name-First: David
 Author-Name-Last: Kaplan
@@ -13,6 +6,13 @@ Author-Email: kaplandm@missouri.edu
 Author-Homepage: https://kaplandm.github.io/
 Author-Workplace-Name: University of Missouri
 Author-Person: pka649
+Author-Name:  Xin Liu
+Author-Name-First: Xin
+Author-Name-Last: Liu
+Author-Email: xin.liu1@wsu.edu
+Author-Homepage: https://xinliu16.github.io/
+Author-Workplace-Name: Washington State University
+Author-Person: pli1438
 
 Title: Multiple Testing for Distributional Differences with Non-iid Data
 Abstract: We propose inference methods to compare two continuous distributions across their support, with two main innovations. First, unlike previous such multiple testing procedures, ours apply much more broadly by allowing non-iid sampling, whenever a Donsker's theorem holds. We also establish our procedures' coherence and consonance. Second, we invert these procedures into confidence sets for the set of points where certain (in)equalities hold. For one-sided inference, these points have an economic interpretation in terms of restricted first-order stochastic dominance. All our methods provide much richer results than existing global tests that report only a single "reject" or "not reject" decision.

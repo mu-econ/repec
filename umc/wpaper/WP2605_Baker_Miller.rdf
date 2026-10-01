@@ -1,0 +1,30 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Sofia P. Baker 
+Author-Name-First: Sofia
+Author-Name-Last: Baker
+Author-Email: sofiapbaker@missouri.edu
+Author-Workplace-Name:  Department of Economics, University of Missouri
+Author-Workplace-Homepage: https://economics.missouri.edu/
+Author-Person: 
+Author-Homepage: 
+Author-Name: J. Isaac Miller
+Author-Name-First: J. Isaac
+Author-Name-Last: Miller
+Author-Email: millerjisaac@missouri.edu
+Author-Workplace-Name: Department of Economics, University of Missouri
+Author-Workplace-Homepage: https://economics.missouri.edu/
+Author-Person: pmi148
+Author-Homepage: https://economics.missouri.edu/people/miller
+
+Title: Carbon Emissions are Underpriced Due to the Snow Albedo Feedback Effect
+Abstract: To balance the tradeoff between economic activity and climate goals by internalizing the cost of emissions, integrated assessment models calculate a social cost of carbon. Embedded in such models are physical energy balance climate models that typically employ temporally constant climate parameters. We examine the empirical effects of changing surface albedo over time. To this end, we leverage satellite data since 2001 in a state-space model in conjunction with an adaptation of the reverse Kalman filter to estimate incoming energy less albedo over 1850-2023. The results show a decreasing albedo trend over most of the sample. Our estimates are consistent with the snow albedo feedback (SAF) where melting ice leads to declines in albedo, thereby causing increased heat absorption at the surface and further melting. Together, these findings indicate that the heating effects of carbon emissions are amplified by the SAF, the omission of which in the carbon pricing decision leads to underpricing.
+Creation-Date: 2026-09
+Revision-Date: 
+Publication-Status: 
+File-URL: https://drive.google.com/file/d/1sbLScmlJDaLWrjkupTtpPtHjCJPdpR73/view?usp=drive_link
+File-Format: Application/pdf
+File-Function:  
+Number:  2605
+Classification-JEL: C32, Q54
+Keywords: climate change, energy balance climate model, snow albedo effect, carbon pricing
+Handle: RePEc:umc:wpaper:2605
